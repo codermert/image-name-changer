@@ -2,6 +2,108 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.codermert.sticker",
   "sticker_packs": [
     {
+      "identifier": "68",
+      "name": "bubliktheraccoon",
+      "publisher": "Coder Mert",
+      "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
+      "publisher_email":"codermert@bk.ru",
+      "publisher_website": "https://www.linkedin.com/in/codermert/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_000.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_001.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_002.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_003.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_004.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_005.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_006.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_007.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_008.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_009.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_010.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_011.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_012.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_013.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_014.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_015.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_016.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_017.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_018.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_019.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_020.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_021.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_022.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_023.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_024.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_025.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_026.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_027.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_028.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/bubliktheraccoon_029.png",
+          "emojis": ["",""]
+          }
+      ]
+    },
+    {
       "identifier": "67",
       "name": "Yuyu",
       "publisher": "Coder Mert",
