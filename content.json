@@ -2,6 +2,108 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.codermert.sticker",
   "sticker_packs": [
     {
+      "identifier": "79",
+      "name": "Gifts10",
+      "publisher": "Coder Mert",
+      "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
+      "publisher_email":"codermert@bk.ru",
+      "publisher_website": "https://www.linkedin.com/in/codermert/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1086.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1089.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1092.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1093.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1095.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1100.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1101.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1103.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1104.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1109.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1111.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1112.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1113.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1115.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1124.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1125.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1127.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1128.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1134.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1135.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1137.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1145.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1146.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1147.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1150.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1154.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1156.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1157.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1163.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/1169.png",
+          "emojis": ["",""]
+          }
+      ]
+    },
+    {
       "identifier": "78",
       "name": "Gifts9",
       "publisher": "Coder Mert",
