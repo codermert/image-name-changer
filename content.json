@@ -2,6 +2,195 @@
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.codermert.sticker",
   "sticker_packs": [
     {
+      "identifier": "82",
+      "name": "Polarmisha Premium",
+      "publisher": "Coder Mert",
+      "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
+      "publisher_email":"codermert@bk.ru",
+      "publisher_website": "https://www.linkedin.com/in/codermert/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_006.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_008.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_013.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_017.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_018.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_019.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_020.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_022.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_023.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_024.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_026.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_027.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_029.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_030.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_031.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_032.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_033.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_034.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_035.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_036.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_037.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_038.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_039.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_040.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_041.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_042.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_043.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_044.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_045.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_046.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/polarmisha_047.png",
+          "emojis": ["",""]
+          }
+      ]
+    },
+    {
+      "identifier": "81",
+      "name": "Pepsi 2022",
+      "publisher": "Coder Mert",
+      "tray_image_file": "https://googlechrome.github.io/samples/picture-element/images/kitten-small.png",
+      "publisher_email":"codermert@bk.ru",
+      "publisher_website": "https://www.linkedin.com/in/codermert/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_000.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_001.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_002.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_003.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_004.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_005.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_006.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_007.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_008.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_009.png", 
+          "emojis": ["",""] 
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_010.png", 
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_011.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_012.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_013.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_014.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_015.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_016.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_017.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_018.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_019.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_020.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_021.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_022.png",
+          "emojis": ["",""]
+          },
+         {"image_file": "https://raw.githubusercontent.com/codermert/image-name-changer/main/stickers/pepsi2022_023.png",
+          "emojis": ["",""]
+          }
+      ]
+    },
+    {
       "identifier": "80",
       "name": "ice_premium",
       "publisher": "Coder Mert",
