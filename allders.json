@@ -2,14 +2,14 @@
 
 {
 
-"resim": "https://vignette.wikia.nocookie.net/en.futurama/images/4/43/Bender.png/revision/latest/scale-to-width-down/350?cb=20150206072725",
-"isim": "Tarih",
+"picUrl": "https://vignette.wikia.nocookie.net/en.futurama/images/4/43/Bender.png/revision/latest/scale-to-width-down/350?cb=20150206072725",
+"ScreenName": "Tarih",
 "Name": "Tarih"
 },
 {
 
-"resim": "https://vignette.wikia.nocookie.net/en.futurama/images/4/4e/Farnsworth.png/revision/latest?cb=20110710094500",
-"isim": "Professor Farnsworth",
+"picUrl": "https://vignette.wikia.nocookie.net/en.futurama/images/4/4e/Farnsworth.png/revision/latest?cb=20110710094500",
+"ScreenName": "Professor Farnsworth",
 "Name": "Hubert J. Farnsworth"
 }
 ]
