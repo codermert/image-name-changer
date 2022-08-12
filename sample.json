@@ -2,204 +2,204 @@
   "kaynak": "bilet.ucuzaucak.net",
   "veri": [
     {
-      "bilet": "İstanbul Tiran Uçak Bileti",
+      "bilet": "İstanbul Kolombo Uçak Bileti",
       "yon": "Gidiş Dönüş",
-      "fiyat": "1710 TL",
-      "tarih": "Ağustos, Eylül",
-      "paylasim": "2 saat önce.",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-tiran-ucak-bileti--15ftuB"
+      "fiyat": "8400 TL",
+      "tarih": "Ekim",
+      "paylasim": "20 saat önce.",
+      "link": "https://bilet.ucuzaucak.net/f/istanbul-kolombo-ucak-bileti--15ftuf"
     },
     {
-      "bilet": "Ankara/İstanbul Kıbrıs Uçak Bileti",
+      "bilet": "İstanbul Kopenhag Uçak Bileti",
       "yon": "Gidiş Dönüş",
-      "fiyat": "1461 TL",
-      "tarih": "Ocak, Kasım, Aralık",
-      "paylasim": "23 saat önce.",
-      "link": "https://bilet.ucuzaucak.net/f/ankara-istanbul-kibris-ucak-bileti--15ftuA"
+      "fiyat": "1655 TL",
+      "tarih": "Aralık, Kasım, Ekim, Nisan, Mart",
+      "paylasim": "Dün paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/istanbul-kopenhag-ucak-bileti--15ftue"
     },
     {
-      "bilet": "Dalaman Bratislava Uçak Bileti",
+      "bilet": "Ankara Mardin Uçak Bileti",
       "yon": "Gidiş Dönüş",
-      "fiyat": "765 TL",
-      "tarih": "Kasım",
-      "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/dalaman-bratislava-ucak-bileti--15ftu7"
+      "fiyat": "700 TL",
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Dün paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/ankara-mardin-ucak-bileti--15ftud"
     },
     {
-      "bilet": "İstanbul Londra Uçak Bileti",
-      "yon": "Tek Yön",
-      "fiyat": "875 TL",
-      "tarih": "Ağustos",
-      "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-londra-ucak-bileti--15ftu6"
-    },
-    {
-      "bilet": "İstanbul Ankara Uçak Bileti",
+      "bilet": "Ankara Diyarbakır Uçak Bileti",
       "yon": "Gidiş Dönüş",
       "fiyat": "600 TL",
-      "tarih": "Ocak, Aralık",
-      "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-ankara-ucak-bileti--15ftu5"
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Dün paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/ankara-diyarbakir-ucak-bileti--15ftuc"
     },
     {
-      "bilet": "İstanbul Konya Uçak Bileti",
+      "bilet": "Ankara ŞanlıUrfa Uçak Bileti",
       "yon": "Gidiş Dönüş",
       "fiyat": "600 TL",
-      "tarih": "Ocak, Aralık",
-      "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-konya-ucak-bileti--15ftu4"
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Dün paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/ankara-sanliurfa-ucak-bileti--15ftub"
     },
     {
-      "bilet": "İstanbul Van Uçak Bileti",
+      "bilet": "Ankara Gaziantep Uçak Bileti",
       "yon": "Gidiş Dönüş",
       "fiyat": "600 TL",
-      "tarih": "Ocak, Aralık",
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Dün paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/ankara-gaziantep-ucak-bileti--15ftua"
+    },
+    {
+      "bilet": "Ankara Adana Uçak Bileti",
+      "yon": "Gidiş Dönüş",
+      "fiyat": "600 TL",
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Dün paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/ankara-adana-ucak-bileti--15ftuZ"
+    },
+    {
+      "bilet": "Ankara İzmir Uçak Bileti",
+      "yon": "Gidiş Dönüş",
+      "fiyat": "600 TL",
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Dün paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/ankara-izmir-ucak-bileti--15ftuY"
+    },
+    {
+      "bilet": "Ankara Hatay Uçak Bileti",
+      "yon": "Gidiş Dönüş",
+      "fiyat": "584 TL",
+      "tarih": "Aralık, Ocak",
       "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-van-ucak-bileti--15ftu3"
+      "link": "https://bilet.ucuzaucak.net/f/ankara-hatay-ucak-bileti--15ftuX"
+    },
+    {
+      "bilet": "Ordu/Giresun - İzmir Uçak Bileti",
+      "yon": "Gidiş Dönüş",
+      "fiyat": "600 TL",
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Bu hafta paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/ordu-giresun-izmir-ucak-bileti--15ftuW"
+    },
+    {
+      "bilet": "İzmir Ordu/Giresun Uçak Bileti",
+      "yon": "Gidiş Dönüş",
+      "fiyat": "584 TL",
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Bu hafta paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/izmir-ordu-giresun-ucak-bileti--15ftuV"
     },
     {
       "bilet": "İstanbul İzmir Uçak Bileti",
       "yon": "Gidiş Dönüş",
-      "fiyat": "600 TL",
-      "tarih": "Ocak, Aralık",
+      "fiyat": "560 TL",
+      "tarih": "Aralık, Ocak",
       "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-izmir-ucak-bileti--15ftu2"
+      "link": "https://bilet.ucuzaucak.net/f/istanbul-izmir-ucak-bileti--15ftuU"
+    },
+    {
+      "bilet": "İzmir İstanbul Uçak Bileti",
+      "yon": "Gidiş Dönüş",
+      "fiyat": "560 TL",
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Bu hafta paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/izmir-istanbul-ucak-bileti--15ftuT"
+    },
+    {
+      "bilet": "Ankara Kars Uçak Bileti",
+      "yon": "Gidiş Dönüş",
+      "fiyat": "500 TL",
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Bu hafta paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/ankara-kars-ucak-bileti--15ftuS"
+    },
+    {
+      "bilet": "İzmir Ankara Uçak Bileti",
+      "yon": "Gidiş Dönüş",
+      "fiyat": "500 TL",
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Bu hafta paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/izmir-ankara-ucak-bileti--15ftuR"
+    },
+    {
+      "bilet": "İzmir ŞanlıUrfa Uçak Bileti",
+      "yon": "Gidiş Dönüş",
+      "fiyat": "564 TL",
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Bu hafta paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/izmir-sanliurfa-ucak-bileti--15ftuQ"
+    },
+    {
+      "bilet": "Ankara Kars Uçak Bileti",
+      "yon": "Gidiş Dönüş",
+      "fiyat": "600 TL",
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Bu hafta paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/ankara-kars-ucak-bileti--15ftuP"
     },
     {
       "bilet": "İstanbul Kayseri Uçak Bileti",
       "yon": "Gidiş Dönüş",
-      "fiyat": "600 TL",
-      "tarih": "Ocak, Aralık",
+      "fiyat": "500 TL",
+      "tarih": "Aralık, Ocak",
       "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-kayseri-ucak-bileti--15ftu1"
-    },
-    {
-      "bilet": "İstanbul Trabzon Uçak Bileti",
-      "yon": " Gidiş Dönüş",
-      "fiyat": "600 TL",
-      "tarih": "Ocak, Aralık",
-      "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-trabzon-ucak-bileti--15ftu0"
-    },
-    {
-      "bilet": "İstanbul ŞanlıUrfa Uçak Bileti",
-      "yon": "Gidiş Dönüş",
-      "fiyat": "600 TL",
-      "tarih": "Ocak, Aralık",
-      "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-sanliurfa-ucak-bileti--15fttz"
-    },
-    {
-      "bilet": "İstanbul Kars Uçak Bileti",
-      "yon": "Gidiş Dönüş",
-      "fiyat": "600 TL",
-      "tarih": "Ocak, Aralık",
-      "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-kars-ucak-bileti--15ftty"
-    },
-    {
-      "bilet": "İstanbul Mardin Uçak Bileti",
-      "yon": "Gidiş Dönüş",
-      "fiyat": "600 TL",
-      "tarih": "Ocak, Aralık",
-      "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-mardin-ucak-bileti--15fttx"
-    },
-    {
-      "bilet": "İstanbul Diyarbakır Uçak Bileti",
-      "yon": "Gidiş Dönüş",
-      "fiyat": "600 TL",
-      "tarih": "Ocak, Aralık",
-      "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-diyarbakir-ucak-bileti--15fttw"
-    },
-    {
-      "bilet": "İstanbul Gaziantep Uçak Bileti",
-      "yon": "Gidiş Dönüş",
-      "fiyat": "600 TL",
-      "tarih": "Ocak, Aralık",
-      "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-gaziantep-ucak-bileti--15fttv"
-    },
-    {
-      "bilet": "İstanbul Hatay Uçak Bileti",
-      "yon": "Gidiş Dönüş",
-      "fiyat": "600 TL",
-      "tarih": "Ocak, Aralık",
-      "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-hatay-ucak-bileti--15fttu"
-    },
-    {
-      "bilet": "İstanbul Adana Uçak Bileti",
-      "yon": "Gidiş Dönüş",
-      "fiyat": "600 TL",
-      "tarih": "Ocak, Aralık",
-      "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-adana-ucak-bileti--15fttt"
+      "link": "https://bilet.ucuzaucak.net/f/istanbul-kayseri-ucak-bileti--15ftuO"
     },
     {
       "bilet": "İstanbul Nevşehir Uçak Bileti",
       "yon": "Gidiş Dönüş",
       "fiyat": "600 TL",
-      "tarih": "Ocak, Aralık",
+      "tarih": "Aralık, Ocak",
       "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-nevsehir-ucak-bileti--15ftts"
+      "link": "https://bilet.ucuzaucak.net/f/istanbul-nevsehir-ucak-bileti--15ftuN"
     },
     {
-      "bilet": "İstanbul Atina Uçak Bileti",
+      "bilet": "Ankara Van Uçak Bileti",
       "yon": "Gidiş Dönüş",
-      "fiyat": "1350 TL",
-      "tarih": "Kasım, Aralık",
+      "fiyat": "600 TL",
+      "tarih": "Aralık, Ocak",
       "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-atina-ucak-bileti--15fttr"
+      "link": "https://bilet.ucuzaucak.net/f/ankara-van-ucak-bileti--15ftuM"
     },
     {
-      "bilet": "İst/İzm/Ankara/Eskişehir Brüksel/Brugge Uçak Bileti",
+      "bilet": "İstanbul Van Uçak Bileti",
       "yon": "Gidiş Dönüş",
-      "fiyat": "858 TL",
-      "tarih": "Ağustos",
+      "fiyat": "500 TL",
+      "tarih": "Aralık, Ocak",
       "paylasim": "Bu hafta paylaşıldı",
-      "link": "https://bilet.ucuzaucak.net/f/ist-izm-ankara-eskisehir-bruksel-brugge-ucak-bileti--15fttq"
+      "link": "https://bilet.ucuzaucak.net/f/istanbul-van-ucak-bileti--15ftuL"
     },
     {
-      "bilet": "İstanbul Seul Uçak Bileti",
+      "bilet": "İstanbul Hatay Uçak Bileti",
       "yon": "Gidiş Dönüş",
-      "fiyat": "9500 TL",
-      "tarih": "Kasım",
-      "paylasim": "Paylaşalı çok oldu",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-seul-ucak-bileti--15fttn"
+      "fiyat": "600 TL",
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Bu hafta paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/istanbul-hatay-ucak-bileti--15ftuK"
     },
     {
-      "bilet": "Abu Dhabi Maldivler Uçak Bileti",
+      "bilet": "İstanbul Trabzon Uçak Bileti",
       "yon": "Gidiş Dönüş",
-      "fiyat": "4000 TL",
-      "tarih": "Ocak, Şubat, Ekim, Kasım, Aralık",
-      "paylasim": "Paylaşalı çok oldu",
-      "link": "https://bilet.ucuzaucak.net/f/abu-dhabi-maldivler-ucak-bileti--15fttm"
+      "fiyat": "600 TL",
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Bu hafta paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/istanbul-trabzon-ucak-bileti--15ftuJ"
     },
     {
-      "bilet": "İstanbul Johannesburg Uçak Bileti",
+      "bilet": "İstanbul Adana Uçak Bileti",
       "yon": "Gidiş Dönüş",
-      "fiyat": "8325 TL",
-      "tarih": "Eylül, Ekim, Kasım",
-      "paylasim": "Paylaşalı çok oldu",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-johannesburg-ucak-bileti--15fttl"
+      "fiyat": "457 TL",
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Bu hafta paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/istanbul-adana-ucak-bileti--15ftuI"
     },
     {
-      "bilet": "İstanbul Bangkok Uçak Bileti",
+      "bilet": "İstanbul Kars Uçak Bileti",
       "yon": "Gidiş Dönüş",
-      "fiyat": "7800 TL",
-      "tarih": "Eylül, Ekim, Kasım",
-      "paylasim": "Paylaşalı çok oldu",
-      "link": "https://bilet.ucuzaucak.net/f/istanbul-bangkok-ucak-bileti--15fttk"
-    },
-    {
-      "bilet": "İzmir İbiza Uçak Bileti",
-      "yon": "Gidiş Dönüş",
-      "fiyat": "2000 TL",
-      "tarih": "Ekim",
-      "paylasim": "Paylaşalı çok oldu",
-      "link": "https://bilet.ucuzaucak.net/f/izmir-ibiza-ucak-bileti--15fttj"
+      "fiyat": "600 TL",
+      "tarih": "Aralık, Ocak",
+      "paylasim": "Bu hafta paylaşıldı",
+      "link": "https://bilet.ucuzaucak.net/f/istanbul-kars-ucak-bileti--15ftuH"
     }
   ]
 }
