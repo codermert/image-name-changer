@@ -1,0 +1,47 @@
+{
+ 
+  "success": true,
+  
+  "counter": {
+    "pending": 100,
+    "rejected": 200,
+    "completed": 300,
+    "expired": 400,
+    "total": 3200
+  },
+  "pie_statistics": {
+    "assigned": 120,
+    "opened": 212,
+    "in-progress": 100,
+    "completed": 320,
+    "done": 433,
+    "rejected": 111,
+    "expired": 332
+  },
+  
+  "bar_months":[
+  "jan",
+  "feb",
+  "mar"
+],
+  
+  "bar_pending":[
+    100,
+    200,
+    300
+  ],
+  
+   "bar_rejected":[
+    140,
+    220,
+    340
+  ],
+  
+  
+   "bar_completed":[
+    170,
+    290,
+    310
+  ]
+  
+}
