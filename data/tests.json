@@ -1,4 +1,5 @@
 [
+  "veri_getir": [
 {
 "courseName": "Fork CPP",
 "courseimg": "https://media.geeksforgeeks.org/img-practice/banner/fork-cpp-thumbnail.png",
@@ -24,3 +25,4 @@
 "courseTracks": "24 Tracks"
 }
 ]
+}
