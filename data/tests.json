@@ -1,5 +1,4 @@
-[
-  "veri_getir": [
+["veri_getir":[
 {
 "courseName": "Fork CPP",
 "courseimg": "https://media.geeksforgeeks.org/img-practice/banner/fork-cpp-thumbnail.png",
@@ -22,7 +21,4 @@
 "courseName": "Data Structures and Algorithms",
 "courseimg": "https://media.geeksforgeeks.org/img-practice/banner/dsa-self-paced-thumbnail.png",
 "courseMode": "Online Batch",
-"courseTracks": "24 Tracks"
-}
-]
-}
+"courseTracks": "24 Tracks"}]}
