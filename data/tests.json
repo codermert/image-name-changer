@@ -1,0 +1,26 @@
+[
+{
+"courseName": "Fork CPP",
+"courseimg": "https://media.geeksforgeeks.org/img-practice/banner/fork-cpp-thumbnail.png",
+"courseMode": "Online Batch",
+"courseTracks": "6 Tracks"
+},
+{
+"courseName": "Linux & Shell Scripting Foundation",
+"courseimg": "https://media.geeksforgeeks.org/img-practice/banner/linux-shell-scripting-thumbnail.png",
+"courseMode": "Online Batch",
+"courseTracks": "8 Tracks"
+},
+{
+"courseName": "11 Weeks Workshop on Data Structures and Algorithms",
+"courseimg": "https://media.geeksforgeeks.org/img-practice/banner/Workshop-DSA-thumbnail.png",
+"courseMode": "Online Batch",
+"courseTracks": "47 Tracks"
+},
+{
+"courseName": "Data Structures and Algorithms",
+"courseimg": "https://media.geeksforgeeks.org/img-practice/banner/dsa-self-paced-thumbnail.png",
+"courseMode": "Online Batch",
+"courseTracks": "24 Tracks"
+}
+]
