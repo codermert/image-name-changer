@@ -1,0 +1,68 @@
+[
+{
+"Taziye_Evi": "DİCLE PİRAN TAZİYE EVİ",
+"Yetkili": "ABDULLAH KIRGIL",
+"Yetkili_GSM": "0506-543-4949",
+"İlçe": "BAĞLAR",
+"Kapasite": 500,
+"Adresi": "https://goo.gl/maps/zWmDe1DtaUW3MYbY7",
+"Enlem": "37.92573330279463",
+"Boylam": "40.18463255601746",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "KAVAR2 TAZİYE EVİ",
+"Yetkili": "EMRULLAH DENKTAŞ",
+"Yetkili_GSM": "0530-872-3868",
+"İlçe": "YENİŞEHİR",
+"Kapasite": 350,
+"Adresi": "https://goo.gl/maps/guyk71vy6mhdD1Z6A",
+"Enlem": "37.91836557605406",
+"Boylam": "40.2276740825973",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "ALİPINAR TAZİYE EVİ",
+"Yetkili": "AHMET AKYAPI",
+"Yetkili_GSM": "0532-502-0614",
+"İlçe": "BAĞLAR",
+"Kapasite": 300,
+"Adresi": "https://goo.gl/maps/ENNXcYPqkx91QkSJ6",
+"Enlem": "37.90804974552973",
+"Boylam": "40.20996654026982",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "BEDİÜZAMAN CAMİ YAS EVİ",
+"Yetkili": "VEYSİ DAMLAR",
+"Yetkili_GSM": "0554-245-0442",
+"İlçe": "KAYAPINAR",
+"Kapasite": 250,
+"Adresi": "https://goo.gl/maps/vLzdFdyVibJDg8sP9",
+"Enlem": "37.94788672830956",
+"Boylam": "40.16978091328909",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "ODABAŞI BAL YAS EVİ",
+"Yetkili": "İSKAN KÖSEK",
+"Yetkili_GSM": "0536-393-3573",
+"İlçe": "BAĞLAR",
+"Kapasite": 500,
+"Adresi": "https://goo.gl/maps/JRQnifMtL44UvxUP8",
+"Enlem": "37.91211834196322",
+"Boylam": "40.1468872691061",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "HERTALILAR YAS EVİ",
+"Yetkili": "BEHÇET KALÇİN",
+"Yetkili_GSM": "0533-744-3834",
+"İlçe": "KAYAPINAR",
+"Kapasite": 700,
+"Adresi": "https://goo.gl/maps/7TTx7Pp8kZqzetSv9",
+"Enlem": "37.94631503497011",
+"Boylam": "40.181196269107204",
+"Durum": "MÜSAİT"
+}
+]
