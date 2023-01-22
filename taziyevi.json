@@ -64,5 +64,192 @@
 "Enlem": "37.94631503497011",
 "Boylam": "40.181196269107204",
 "Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "BADIKA YAS EVİ",
+"Yetkili": "SELİM ASLAN",
+"Yetkili_GSM": "0532-540-6259",
+"İlçe": "BAĞLAR",
+"Kapasite": 250,
+"Adresi": "https://goo.gl/maps/a3nkTWVtRZeBrQZ39",
+"Enlem": "37.92596723924338",
+"Boylam": "40.20622008259734",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "KAYALAR YAS EVİ",
+"Yetkili": "ENGİN KAYA",
+"Yetkili_GSM": "0533-577-6954",
+"İlçe": "BAĞLAR",
+"Kapasite": 150,
+"Adresi": "https://goo.gl/maps/HvSuKzjgGXgmjpRb8",
+"Enlem": "37.91205098799926",
+"Boylam": "40.20957482863367",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "SİLVAN FARQİN TAZİYE EVİ",
+"Yetkili": "RAMAZAN DAĞ",
+"Yetkili_GSM": "0505-627-3751",
+"İlçe": "BAĞLAR",
+"Kapasite": 250,
+"Adresi": "https://goo.gl/maps/6JSvYJwpCjfBSpMC8",
+"Enlem": "37.91667079658732",
+"Boylam": "40.18192462492451",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "KULPLULAR TAZİYE EVİ",
+"Yetkili": "AYDIN",
+"Yetkili_GSM": "0532-315-4298",
+"İlçe": "BAĞLAR",
+"Kapasite": 270,
+"Adresi": "https://goo.gl/maps/vn45tbSQSBNXWstz5",
+"Enlem": "37.927280996404264",
+"Boylam": "40.208534455615826",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "HANİLİLER YAS EVİ",
+"Yetkili": "HACI MEHMET KATMER",
+"Yetkili_GSM": "0534-675-3477",
+"İlçe": "BAĞLAR",
+"Kapasite": 125,
+"Adresi": "https://goo.gl/maps/kJfuj11sRwAEWQ94A",
+"Enlem": "37.93238453571468",
+"Boylam": "40.19876118445225",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "ÇÜNGÜŞ VE KÖYLERİ TAZİYE EVİ",
+"Yetkili": "AHMET BAHÇECİ",
+"Yetkili_GSM": "0532-288-2433",
+"İlçe": "KAYAPINAR",
+"Kapasite": 375,
+"Adresi": "https://goo.gl/maps/AVqYG4wo3dDZi4fB9",
+"Enlem": "37.937800288754886",
+"Boylam": "40.19917608259783",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "LİCELİLER YAS EVİ",
+"Yetkili": "A.BARİ ERKAPLAN",
+"Yetkili_GSM": "0537-772-4254",
+"İlçe": "BAĞLAR",
+"Kapasite": 400,
+"Adresi": "https://goo.gl/maps/gkSuAosH4JLVCu9k7",
+"Enlem": "37.911893807031774",
+"Boylam": "40.19085172677897",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "KULP TEMİRAN YAS EVİ",
+"Yetkili": "AHMET YÜCE",
+"Yetkili_GSM": "0533-615-9266",
+"İlçe": "BAĞLAR",
+"Kapasite": 450,
+"Adresi": "https://goo.gl/maps/oEpcSB2Lk6jLJE9A7",
+"Enlem": "37.92352931832558",
+"Boylam": "40.17752281143383",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "MAZIDAĞLILAR YAS EVİ",
+"Yetkili": "CELAL SOYSAL",
+"Yetkili_GSM": "0533-552-7911",
+"İlçe": "BAĞLAR",
+"Kapasite": 250,
+"Adresi": "https://goo.gl/maps/5Pju1tXa4o4Uhe3y7",
+"Enlem": "37.92444996831414",
+"Boylam": "40.19953289814536",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "MISTAN YAS EVİ",
+"Yetkili": "MURAT ZORBOZAN",
+"Yetkili_GSM": "0533-812-2360",
+"İlçe": "SUR",
+"Kapasite": 300,
+"Adresi": "https://goo.gl/maps/otbB8TRbSB4xzonDA",
+"Enlem": "37.91357994571378",
+"Boylam": "40.235736896087985",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "ŞAKLAT YAS EVİ",
+"Yetkili": "SÜLEYMAN YILDIRIM",
+"Yetkili_GSM": "0532-215-6379",
+"İlçe": "KAYAPINAR",
+"Kapasite": 300,
+"Adresi": "https://goo.gl/maps/9TJH3gyog2KCFCGw7",
+"Enlem": "37.94335127725027",
+"Boylam": "40.18428226910718",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "BARMAN YAS EVİ",
+"Yetkili": "ENSARİ KILIÇ",
+"Yetkili_GSM": "0530-320-8121",
+"İlçe": "BAĞLAR",
+"Kapasite": 350,
+"Adresi": "https://goo.gl/maps/YhgSZvUuWCFrAxjL6",
+"Enlem": "37.923225245555294",
+"Boylam": "40.192629269106526",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "DİCLE YAS EVİ",
+"Yetkili": "BAYRAM SEKVAN",
+"Yetkili_GSM": "0532-381-3564",
+"İlçe": "BAĞLAR",
+"Kapasite": 400,
+"Adresi": "https://goo.gl/maps/cdajPx93dMhCd87P6",
+"Enlem": "37.92940969390786",
+"Boylam": "40.198134269106745",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "AHMEDİ XANİ CAMİ YAS EVİ",
+"Yetkili": "HASAN POLAT",
+"Yetkili_GSM": "0532-322-9316",
+"İlçe": "KAYAPINAR",
+"Kapasite": 250,
+"Adresi": "https://goo.gl/maps/F1FHd6edoN3p4ywQ8",
+"Enlem": "37.94003551369374",
+"Boylam": "40.18482791328887",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "TERKANLILAR YAS EVİ",
+"Yetkili": "ENSARİ ORUÇ",
+"Yetkili_GSM": "0541-800-2121",
+"İlçe": "BAĞLAR",
+"Kapasite": 300,
+"Adresi": "https://goo.gl/maps/82BrfkzFmmv6sCu96",
+"Enlem": "37.92567838784191",
+"Boylam": "40.2073658114339",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "ERGANİLİLER YAS EVİ",
+"Yetkili": "HASAN YOLDAŞ",
+"Yetkili_GSM": "0533-327-9655",
+"İlçe": "KAYAPINAR",
+"Kapasite": 250,
+"Adresi": "https://goo.gl/maps/hJLPWo1kAuQqKySp9",
+"Enlem": "37.9355416790838",
+"Boylam": "40.19224018445256",
+"Durum": "MÜSAİT"
+},
+{
+"Taziye_Evi": "SARAYKAPI TAZİYE EVİ",
+"Yetkili": "ABDURREZAK ERİM",
+"Yetkili_GSM": "0532-406-1176",
+"İlçe": "SUR",
+"Kapasite": 200,
+"Adresi": "https://goo.gl/maps/cmQ61uQKpeafWrWt9",
+"Enlem": "37.914972657306485",
+"Boylam": "40.236597726779166",
+"Durum": "MÜSAİT"
 }
 ]
