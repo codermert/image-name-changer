@@ -1,22 +1,58 @@
 {
   "characters": [
     {
-      "name": "Darth Vader",
-      "actor": "David Prowse",
-      "img": "https://upload.wikimedia.org/wikipedia/en/7/76/Darth_Vader.jpg",
-      "summary": "Darth Vader is a fictional character in the Star Wars franchise."
-    },
-    {
-      "name": "Luke Skywalker",
-      "actor": "Mark Hamill",
-      "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/Luke_Skywalker.png",
-      "summary": "Luke Skywalker is a fictional character and the main protagonist of the original film trilogy of the Star Wars franchise."
-    },
-    {
-      "name": "Princess Leia",
-      "actor": "Carrie Fisher",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/Princess_Leia%27s_characteristic_hairstyle.jpg",
-      "summary": "Princess Leia is a fictional character in the Star Wars franchise, portrayed in films by Carrie Fisher."
-    }
+    "img": "https://www.themoviedb.org/t/p/w138_and_h175_face/iBTsQPoJFzMjeY0VX8NwJJIVkKU.jpg",
+    "actor": "Sebastian Martinez",
+    "summary": "https://www.themoviedb.org/person/2092185-sebastian-martinez",
+    "name": "Zacarías"
+  },
+  {
+    "img": "https://www.themoviedb.org/t/p/w138_and_h175_face/olqkYm4pjssyWmaqNGvnq7toVgB.jpg",
+    "actor": "Ana Lucía Domínguez",
+    "summary": "https://www.themoviedb.org/person/1243187-ana-lucia-dominguez",
+    "name": "Camilla"
+  },
+  {
+    "img": "https://www.themoviedb.org/t/p/w138_and_h175_face/4a4KLHBaDbB8MHDCqOsKMfBqxDR.jpg",
+    "actor": "Michel Brown",
+    "summary": "https://www.themoviedb.org/person/85560-michel-brown",
+    "name": "Simón"
+  },
+  {
+    "img": "https://www.themoviedb.org/t/p/w138_and_h175_face/kRTPKGzmJwk8x5Z7jcbymtINhDm.jpg",
+    "actor": "Margarita Muñoz",
+    "summary": "https://www.themoviedb.org/person/1415551-margarita-munoz",
+    "name": "Valeria"
+  },
+  {
+    "img": "https://www.themoviedb.org/t/p/w138_and_h175_face/xVeeHO8eFlQ3ZzwO1CwBYaThNiB.jpg",
+    "actor": "Valeria Emiliani",
+    "summary": "https://www.themoviedb.org/person/2233473-valeria-emiliani",
+    "name": "Samantha"
+  },
+  {
+    "img": "https://www.themoviedb.org/t/p/w138_and_h175_face/1IXa3UsEJAbctAnOVsXwAXjkT10.jpg",
+    "actor": "Julián Cerati",
+    "summary": "https://www.themoviedb.org/person/2640145-julian-cerati",
+    "name": "Tomás"
+  },
+  {
+    "img": "https://www.themoviedb.org/t/p/w138_and_h175_face/327RMDJerAG2y2qbXLa0UWsy1IV.jpg",
+    "actor": "Moisés Arizmendi",
+    "summary": "https://www.themoviedb.org/person/966638-moises-arizmendi",
+    "name": "Mariachi"
+  },
+  {
+    "img": "https://www.themoviedb.org/t/p/w138_and_h175_face/4MpMxwhvGfLbdbQKrSAjODbqZ2G.jpg",
+    "actor": "Juan Fernando Sánchez",
+    "summary": "https://www.themoviedb.org/person/1616184-juan-fernando-sanchez",
+    "name": "Sarmiento"
+  },
+  {
+    "img": "https://www.themoviedb.org/t/p/w138_and_h175_face/fMyULP4XoOYz0JBn5TPbBhsXGYr.jpg",
+    "actor": "Jacqueline Arenal",
+    "summary": "https://www.themoviedb.org/person/72366-jacqueline-arenal",
+    "name": "Greta Volcán"
+  }
   ]
 }
