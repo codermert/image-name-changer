@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #181818;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .form-container {
+    background-color: #282828;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    padding: 40px;
+    width: 400px;
+  }
+  
+  h1 {
+    color: #1DB954;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 10px;
+  }
+  
+  input[type='text'],
+  input[type='tel'],
+  input[type='file'] {
+    background-color: #282828;
+    border: none;
+    border-radius: 5px;
+    box-shadow: inset 0px 0px 5px rgba(0, 0, 0, 0.1);
+    color: #fff;
+    font-size: 16px;
+    padding: 10px;
+    width: 100%;
+  }
+  
+  input[type='submit'] {
+    background-color: #1DB954;
+    border: none;
+    border-radius: 5px;
+    box-shadow: none;
+    color: #fff;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 12px;
+    transition: background-color 0.2s ease-in-out;
+    width: 100%;
+  }
+  
+  input[type='submit']:hover {
+    background-color: #1ed760;
+  }
+  
