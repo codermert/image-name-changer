@@ -1,0 +1,19 @@
+{
+	"welcome": "Merhaba ben Aslı",
+	"askName": "Yardımcı olabilmem için isminizi öğrenebilir miyim?",
+	"isValidName": "Geçersiz isim girdiniz, lütfen tekrar girebilir misiniz?",
+	"isValidIdInclude": "Kargo takip numaranız bulunamadı!\nKontrol edip tekrar gönderebilir misiniz?",
+	"responIntro": "Merhaba %name",
+	"askID": "Size gelen 12 haneli takip numaranızı paylaşabilir misiniz?",
+	"idNotFound": "Sistemde bir hata oluştu,\nTakip numaranızı tekrar gönderebilir misiniz?",
+	"menuAsk": "Kargo takip numaranızla ilgili aşağıdaki gönderilere ulaştım📦",
+	"listMenu": [
+		["KARGO BİLGİLERİNİZ", ".gettrack", ""],
+		["QR KODUNUZ", ".gettrack", ""]
+		],
+	"inputAgainID": "Kargo takip numaranızı tekrar gönderebilir misiniz?",
+	"isHelping": "Gönderinizle ilgili herhangi bir talebinizde bize bu numaradan 7/24 ulaşabilirsiniz.Size yardımcı olabildim mi?",
+	"buttonYN": [["EVET", ".yes"],["HAYIR", ".no"]],
+	"resButtonY": "Bizimle iletişime geçtiğiniz için teşekkürler\nBu sistemi geliştirmeye devam edeceğiz💚",
+	"resButtonN": "Geri bildiriminiz için teşekkürler💚"
+}
