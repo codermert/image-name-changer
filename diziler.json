@@ -1,29 +1,44 @@
 {
-  "title": "Dark",
-  "seasons": [
+  "diziler": [
     {
-      "number": 1,
-      "episodes": [
-        { "title": "1. Sezon 1. Bölüm", "link": "https://www30.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
-        { "title": "1. Sezon 2. Bölüm", "link": "https://www31.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
-        { "title": "1. Sezon 3. Bölüm", "link": "https://www32.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" }
+      "adi": "Dark",
+      "sezonlar": [
+        {
+          "numara": 1,
+          "bolumler": [
+            { "adi": "1. Sezon 1. Bölüm", "link": "https://www30.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
+            { "adi": "1. Sezon 2. Bölüm", "link": "https://www31.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
+            { "adi": "1. Sezon 3. Bölüm", "link": "https://www32.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" }
+          ]
+        },
+        {
+          "numara": 2,
+          "bolumler": [
+            { "adi": "2. Sezon 1. Bölüm", "link": "https://www33.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
+            { "adi": "2. Sezon 2. Bölüm", "link": "https://www34.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
+            { "adi": "2. Sezon 3. Bölüm", "link": "https://www35.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" }
+          ]
+        },
+        {
+          "numara": 3,
+          "bolumler": [
+            { "adi": "3. Sezon 1. Bölüm", "link": "https://www36.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
+            { "adi": "3. Sezon 2. Bölüm", "link": "https://www37.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
+            { "adi": "3. Sezon 3. Bölüm", "link": "https://www38.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" }
+          ]
+        }
       ]
     },
     {
-      "number": 2,
-      "episodes": [
-        { "title": "2. Sezon 1. Bölüm", "link": "https://www33.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
-        { "title": "2. Sezon 2. Bölüm", "link": "https://www34.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
-        { "title": "2. Sezon 3. Bölüm", "link": "https://www35.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" }
-      ]
-    },
-    {
-      "number": 3,
-      "episodes": [
-        { "title": "3. Sezon 1. Bölüm", "link": "https://www36.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
-        { "title": "3. Sezon 2. Bölüm", "link": "https://www37.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
-        { "title": "3. Sezon 3. Bölüm", "link": "https://www38.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" }
+      "adi": "Godfather of Harlem",
+      "sezonlar": [
+        {
+           "numara": 1,
+      "bolumler": [
+        { "adi": "1. Sezon 1. Bölüm", "link": "https://may14-uwc023-yoxpet-2evocs-12dwd.moly.cloud/xqx2iw3po5okjiqbtevcjoiy4k4abgynmqhbahtf53huo5r5nzdqlzbhvmwa/pl3ef083w5wn.mp4" }
       ]
     }
   ]
+}
+    ]
 }
