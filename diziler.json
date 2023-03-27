@@ -1,0 +1,29 @@
+{
+  "title": "Dark",
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        { "title": "1. Sezon 1. Bölüm", "link": "https://www30.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
+        { "title": "1. Sezon 2. Bölüm", "link": "https://www31.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
+        { "title": "1. Sezon 3. Bölüm", "link": "https://www32.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        { "title": "2. Sezon 1. Bölüm", "link": "https://www33.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
+        { "title": "2. Sezon 2. Bölüm", "link": "https://www34.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
+        { "title": "2. Sezon 3. Bölüm", "link": "https://www35.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" }
+      ]
+    },
+    {
+      "number": 3,
+      "episodes": [
+        { "title": "3. Sezon 1. Bölüm", "link": "https://www36.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
+        { "title": "3. Sezon 2. Bölüm", "link": "https://www37.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" },
+        { "title": "3. Sezon 3. Bölüm", "link": "https://www38.ff-01.com/token=ArrFFDvKsvd0TXjRZ-EBkQ/1679898023/88.236.0.0/19/8/84/7813f25642ccdd0b8a209c2cd1dc5848-1080p.mp4" }
+      ]
+    }
+  ]
+}
