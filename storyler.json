@@ -1,0 +1,20 @@
+[
+  {
+    "username": "ali",
+    "image_url": "https://images.unsplash.com/photo-1617424969039-a0a00d63f5e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "caption": "Ali'nin hikayesi bugün...",
+    "time": "12:30 PM"
+  },
+  {
+    "username": "ayşe",
+    "image_url": "https://images.unsplash.com/photo-1648090322527-138e464a299e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "caption": "Ayşe'nin yeni evi!",
+    "time": "11:00 AM"
+  },
+  {
+    "username": "mehmet",
+    "image_url": "https://images.unsplash.com/photo-1648090329516-ee37a5ff060b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "caption": "Mehmet'in seyahat maceraları: Bali",
+    "time": "10:00 AM"
+  }
+]
