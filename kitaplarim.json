@@ -1,28 +1,3972 @@
 {
-  "kitaplar": [
-    {
-      "resim": "https://img.kitapyurdu.com/v1/getImage/fn:106605/wh:true/wi:500",
-      "ad": "Kişisel gelişim yolculuğu rehberi",
-      "sayfa": "162 Sayfa",
-      "tarih": "2010",
-      "boyut": "2.35 MB",
-      "link": "https://media.turuz.com/her_konu-2018/4296-Kishisel_Gelishim_Yolchulughu_Rehberi-Chingiz_Erengil-Adem_Ozbay-2005-162s.pdf"
-    },
-    {
-      "resim": "https://img.kitapyurdu.com/v1/getImage/fn:145850/wh:true/wi:500",
-      "ad": "Parasal Zeka - Hakan Turgut",
-      "sayfa": "312 Sayfa ",
-      "tarih": "2010",
-      "boyut": "1.28 MB",
-      "link": "https://tr.pdfdrive.com/download.pdf?id=117484739&h=ae637a5dfb7b9fba947f6605732c4e9f&u=cache&ext=pdf"
-    },
-    {
-      "resim": "https://hattusa.club/storage/covers/ugur-canpolat-psikoloji-sohbetleri.jpg",
-      "ad": "Psikoloji Sohbetleri - Uğur Canpolat",
-      "sayfa": "217 Sayfa",
-      "tarih": "2010",
-      "boyut": "1.04 MB",
-      "link": "https://tr.pdfdrive.com/download.pdf?id=117504878&h=3c96aa8ede047686a66b51665509e61a&u=cache&ext=pdf"
-    }
-  ]
+"kitaplar": [
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a8b/a8b0a759d6f79dcb5bf8081083bf0d2b-s.jpg",
+"ad": "Nodejs in Action.pdf",
+"sayfa": "417 Sayfa",
+"tarih": "2013",
+"boyut": "9.34 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38425392&h=ce54c1e3d255f14f50fb5835767d35dd"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/730/73082e69f150849ac152ea468917a3d4-s.jpg",
+"ad": "Developing Turn-Based Multiplayer Games: With Gamemaker Studio 2 and Nodejs",
+"sayfa": "214 Sayfa",
+"tarih": "2018",
+"boyut": "2.54 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=185911552&h=8431b436e535f0fc28b6e02541ce7a16"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/7cb/7cb9d0f67f5aa376afafdd77c63242fb-s.jpg",
+"ad": "Developing Turn-Based Multiplayer Games: with GameMaker Studio 2 and NodeJS",
+"sayfa": "181 Sayfa",
+"tarih": "2018",
+"boyut": "4.61 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=199796654&h=153280c3245e71c1d8fffe8c9a45ce81"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/408/408badb0c7056e3cc3735fe90dcf63b7-s.jpg",
+"ad": "Web Development with MongoDB and NodeJS Build an interactive and full-featured web application from scratch using Node.js and MongoDB",
+"sayfa": "301 Sayfa",
+"tarih": "2015",
+"boyut": "7.19 MB",
+"link": "Oturum bilgisi bulunamadı."
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/32a/32a0876c8e012e04e8f85f87fcf3dfd2-s.jpg",
+"ad": "Learn NodeJS in 1 Day: Complete Node JS Guide with Examples",
+"sayfa": "123 Sayfa",
+"tarih": "2016",
+"boyut": "6.07 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=195101691&h=f39e1edab93a772e2234f417e7604fa3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/c37/c37c8344cb3df5aabec4d46f51dd54f4-s.jpg",
+"ad": "Learn NodeJS in 1 Day: Complete Node JS Guide with Examples",
+"sayfa": "105 Sayfa",
+"tarih": "2016",
+"boyut": "6.04 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=158435138&h=cbcb6538723209554d9dc578069d9e55"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/858/858ffefa1b13d8d1053b7b91af45b24b-s.jpg",
+"ad": "Learn With: Angular 4, Bootstrap, and NodeJS",
+"sayfa": "223 Sayfa",
+"tarih": "2017",
+"boyut": "2.17 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=195098051&h=cb6bfde5f64c86fd5a1c4e6faba897b7"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/574/5746a8f44a1489264cd7e72d29b713a1-s.jpg",
+"ad": "hands-on-nodejs - Ning",
+"sayfa": "155 Sayfa",
+"tarih": "2012",
+"boyut": "584 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=35996794&h=8179cfadb96c99bba31a613357b2cea9"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/21f/21fcda64a97bd0bac8adbe593b40eca0-s.jpg",
+"ad": "HTML5 CSS BOOTSTRAP JAVASCRIPT TYPESCRIPT JSON JQUERY ANGULARJS AND NODEJS",
+"sayfa": "197 Sayfa",
+"tarih": "2017",
+"boyut": "1.29 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=62501132&h=83dc11f453e5d42b819be2fa73d6d0b3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e83/e83ee580ce06314d2c1c8c921695d591-s.jpg",
+"ad": "Learn With: Angular 4, Bootstrap, and NodeJS",
+"sayfa": "224 Sayfa",
+"tarih": "2016",
+"boyut": "4.64 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=184774094&h=4e17700794e3d9347599be0ded4e3e8b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/2f5/2f506a3a7110b9653097e7be4fb3c4a3-s.jpg",
+"ad": "Learn NodeJS in 1 Day: Complete Node JS Guide with Examples",
+"sayfa": "119 Sayfa",
+"tarih": "2016",
+"boyut": "6.17 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=195102223&h=c83bc2f2d98af1c476e8ce2154870310"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/226/22604ded4a42bf0e19c874fdc061983f-s.jpg",
+"ad": "Web Development with MongoDB and NodeJS, 2nd Edition",
+"sayfa": "301 Sayfa",
+"tarih": "2015",
+"boyut": "5.08 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=86831809&h=6471e18c72e213b6200e8e20800a63c3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e33/e333b349638f47488a11f1b7c0704cd8-s.jpg",
+"ad": "Nodejs With Koa2 Build Next Generation Webapps, With Async and await",
+"sayfa": "77 Sayfa",
+"tarih": "2016",
+"boyut": "10.87 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=181557503&h=e2570b2648ebf35afe1901cb33db2fe5"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/53f/53f1099dfdd1900e27d1ffb0e8c6f8a9-s.jpg",
+"ad": "Programación Reactiva con React, NodeJS & MongoDB",
+"sayfa": "67 Sayfa",
+"tarih": "2016",
+"boyut": "4.45 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=166121628&h=4c312c415ccce201c545df8155fe4c11"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/595/595f1bcabd29ca92ec6481b92887c0bb-s.jpg",
+"ad": "Nodejs In Action",
+"sayfa": "443 Sayfa",
+"tarih": "2013",
+"boyut": "6.86 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=18833671&h=6a423e0c53dfc72a085a3c9678f62409"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/8fe/8febb28f5de7db8cea1ea34cd75a85d2-s.jpg",
+"ad": "Introduccion-a-Nodejs",
+"sayfa": "242 Sayfa",
+"tarih": "2013",
+"boyut": "1.26 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=42478061&h=8cba907d887c579ce38fb3cf9025e508"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/0fa/0fabdf72f9f12291ff7c6258d39d8505-s.jpg",
+"ad": "Learn With: Angular 4, Bootstrap, and NodeJS",
+"sayfa": "221 Sayfa",
+"tarih": "2017",
+"boyut": "2.24 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=195100865&h=9356d5d8a3b6d1c1392830cecd643eae"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a9b/a9b7811d803480d06ffe55d54e9edf14-s.jpg",
+"ad": "NodeJS/Express",
+"sayfa": "40 Sayfa",
+"tarih": "2015",
+"boyut": "606 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=19725361&h=7d642b9b1d4b0d941251a6696cd11ebf"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f74/f7413b3fec673a2f25fd42b2410ccb98-s.jpg",
+"ad": "Visual Studio Code Distilled: Evolved Code Editing for Windows, macOS, and Linux",
+"sayfa": "221 Sayfa",
+"tarih": "2019",
+"boyut": "7.71 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=185943962&h=0123c8294c84da8bf546abec6b19ea8e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/503/503a8becd7cf4e632a9679a970af078f-s.jpg",
+"ad": "capitulo 2. api rest nodejs con loopback",
+"sayfa": "82 Sayfa",
+"tarih": "2017",
+"boyut": "1.41 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=53477508&h=da40a848ea983ea39a71a95651e2a364"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d68/d683942a82930567e0fbede22203510b-s.jpg",
+"ad": "Dayley - Nodejs, MongoDB and Angular Web Development (2018)",
+"sayfa": "1,154 Sayfa",
+"tarih": "2020",
+"boyut": "44.67 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=200853990&h=d46c7ac6d9977189fc0cde142ac42ab9"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ecb/ecbfa3e77aec3d6203bf9d4cd385ab22-s.jpg",
+"ad": "nodejs-security-handbook",
+"sayfa": "20 Sayfa",
+"tarih": "2017",
+"boyut": "3.87 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57769694&h=0b90af42008b1c98a36a875b26ae936c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/45e/45e169a8d6eb14084b5e2e84aeeab49a-s.jpg",
+"ad": "La plateforme NodeJS",
+"sayfa": "66 Sayfa",
+"tarih": "2017",
+"boyut": "272 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=91617156&h=db9d93fa8601f494b1a5bc85c1356c49"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/fc7/fc72a676df8a9ff2daaa23533fa8b4f9-s.jpg",
+"ad": "Development of cross-platform cloud application with AngularJS and NodeJS",
+"sayfa": "86 Sayfa",
+"tarih": "2015",
+"boyut": "13.88 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=164750615&h=7855679e22e8a578b9f30085280fad47"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a07/a07a0da49187d7429a754453e43b79df-s.jpg",
+"ad": "Development of cross-platform cloud application with AngularJS and NodeJS",
+"sayfa": "86 Sayfa",
+"tarih": "2015",
+"boyut": "13.88 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=162805021&h=fe84c7e3f317371b659c44ff8a278cce"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e80/e80b8bf14f3f08172919fac8e636e2bf-s.jpg",
+"ad": "Имплементација веб сервиса коришћењем технологија NodeJS и MongoDB",
+"sayfa": "65 Sayfa",
+"tarih": "2015",
+"boyut": "1.76 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52865928&h=3784e09f1fd33ae380836b598c4b2866"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/691/69154c78fbf00a8c2a6c026f551435cd-s.jpg",
+"ad": "Nodejs开发加密货币",
+"sayfa": "131 Sayfa",
+"tarih": "2016",
+"boyut": "8.52 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=174496764&h=c17c338d8d97d2078c007c54a0b8cbf2"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/1ba/1ba724d594e0ebc6c3d8d3b3ca54c476-s.jpg",
+"ad": "Building Tools with GitHub",
+"sayfa": "301 Sayfa",
+"tarih": "2016",
+"boyut": "12.13 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=53283592&h=487b67aec8a37e4be6e47a1072e77a97"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/db6/db65f8b051c7e838b31c8010c5210b7b-s.jpg",
+"ad": "Programming Web Applications with Node, Express and Pug",
+"sayfa": "212 Sayfa",
+"tarih": "2017",
+"boyut": "2.72 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=158032925&h=3d460dd8af70182337b9db77d6d523bc"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/8f6/8f67af2805202a8b836e00438817ed75-s.jpg",
+"ad": "Replicacion Activa en NodeJS con 0MQ.pdf",
+"sayfa": "80 Sayfa",
+"tarih": "2015",
+"boyut": "10.25 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39337645&h=8df893e2fa33214c8ac7cdbe360263f2"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f59/f595a48395b459d706705c60b3f2aa35-s.jpg",
+"ad": "HTML5 and CSS3 Responsive Web Design Cookbook",
+"sayfa": "204 Sayfa",
+"tarih": "2015",
+"boyut": "4.03 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=40241270&h=2b05009870e396cb2a761b9065d2100d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/74e/74ee4dcd96e8fba7c478710cb3255d97-s.jpg",
+"ad": "nodejs + express + ejs",
+"sayfa": "46 Sayfa",
+"tarih": "2014",
+"boyut": "5.37 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=63306881&h=4a69fc78f0a6a8e83c5e9bf5912053b1"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f1f/f1ffcb8c195d8fef639f31a4f6f268b0-s.jpg",
+"ad": "programming the ar parrot v2 drone using nodejs & javascript",
+"sayfa": "48 Sayfa",
+"tarih": "2016",
+"boyut": "3.49 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38237532&h=fa52987d8a8b26483474744b26630859"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f33/f33550dd4b61d8a0ed83a164715009ad-s.jpg",
+"ad": "Visual Studio Code Distilled: Evolved Code Editing for Windows, macOS, and Linux",
+"sayfa": "205 Sayfa",
+"tarih": "2019",
+"boyut": "20.58 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=196872642&h=85cc873779ac020c10212002c9fde173"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/030/03077cc41941cffb01d9b43473f9b62a-s.jpg",
+"ad": "Node.js",
+"sayfa": "441 Sayfa",
+"tarih": "2017",
+"boyut": "3.42 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=149972222&h=85d07545d63b210582b1d8fc33de0f0b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f38/f38fc985758c62367ac1e9e9f2d337f4-s.jpg",
+"ad": "NodeJS Security - Still unsafe at most speeds - v1.0",
+"sayfa": "49 Sayfa",
+"tarih": "2016",
+"boyut": "8.7 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=33358511&h=96d505da37ffa0b55245bc983628185a"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/689/6893c2c01f821022b3e5c7e3717ef134-s.jpg",
+"ad": "Projet Domotique Serveur REST NodeJS",
+"sayfa": "52 Sayfa",
+"tarih": "2012",
+"boyut": "3.41 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39028432&h=a2758b4ec7bb8625d7b0aece727d883a"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/eac/eacad5563fd6b137e96cb92b4becc5c8-s.jpg",
+"ad": "California State University, Northridge Performance Modeling of NodeJS and NoSQL Databases ...",
+"sayfa": "58 Sayfa",
+"tarih": "2017",
+"boyut": "3.91 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=53678419&h=f6cc8335d39cecf45adffa85b4d5f68e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/438/43834875c321fced116b3950fc215a6b-s.jpg",
+"ad": "Créer une «application web » avec AngularJS, nodeJS et mongoDB",
+"sayfa": "46 Sayfa",
+"tarih": "2013",
+"boyut": "400 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=8117145&h=\" data-download-page="
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b7b/b7b19fed38850ccac95ded434c8d906c-s.jpg",
+"ad": "Node.js Notes for Professionals",
+"sayfa": "334 Sayfa",
+"tarih": "2017",
+"boyut": "2.79 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=55137371&h=ae5205451bee56dd76f321d159b5d118"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e58/e58357929d7771e670596b431d67ddab-s.jpg",
+"ad": "nodejs - Drupal Developer Days Barcelona",
+"sayfa": "43 Sayfa",
+"tarih": "2001",
+"boyut": "805 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=6791208&h=a00db86bd79b2ff577bf765183549ea4"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/436/4366e7d0fe10f1ee2f1b967fa02f13eb-s.jpg",
+"ad": "MAKE NODEJS APIs GREAT WITH TYPESCRIPT",
+"sayfa": "29 Sayfa",
+"tarih": "2017",
+"boyut": "782 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=60625909&h=957989a83115005913bff98a23226ac3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/24a/24a1a24b82ff7a1fc8293d4909adc592-s.jpg",
+"ad": "richardrodger-nodejs - Meetup",
+"sayfa": "42 Sayfa",
+"tarih": "2012",
+"boyut": "8.04 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=10393684&h=1d644d17c137abf9b7370bb5303f31dc"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/361/361e5fda0730f0d12c60e37353102a05-s.jpg",
+"ad": "Projet Domotique Serveur REST NodeJS",
+"sayfa": "52 Sayfa",
+"tarih": "2012",
+"boyut": "3.41 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38689367&h=a2758b4ec7bb8625d7b0aece727d883a"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/af2/af23f8877f6cfd8d9d0a5744fb132813-s.jpg",
+"ad": "NodeJS Presentation",
+"sayfa": "24 Sayfa",
+"tarih": "2014",
+"boyut": "430 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=18726044&h=35376b020b0040c6dffb38c40b7e5670"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/6a0/6a0249107905a31ab5782eb84270b052-s.jpg",
+"ad": "go microservices with docker swarm mode and spring cloud",
+"sayfa": "80 Sayfa",
+"tarih": "2017",
+"boyut": "5.32 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52317510&h=0708d1982a304b0d58558fc9c9d520eb"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d6a/d6ae9c1941433aeeabf242a2562678a6-s.jpg",
+"ad": "programming the ar parrot v2 drone using nodejs & javascript",
+"sayfa": "48 Sayfa",
+"tarih": "2016",
+"boyut": "3.52 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=49971384&h=df4724a44be7d3976e8c50193901c612"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/eae/eae00928d473230d93292ff9f6724257-s.jpg",
+"ad": "cPanel - NodeJS & Python-2018",
+"sayfa": "43 Sayfa",
+"tarih": "2017",
+"boyut": "16.26 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=197249340&h=3082fc987ce5c6a1ab71d13124e34ddb"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/7c8/7c8824965b59cec8273c193911839b4c-s.jpg",
+"ad": "Bees, collaborative algorithms & NodeJS",
+"sayfa": "26 Sayfa",
+"tarih": "2013",
+"boyut": "440 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=16002816&h=837efcac335e47ebd884b099dc48ecd0"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f64/f64a3a4650854733dad4361e02d1cd68-s.jpg",
+"ad": "Les opportunités offertes par l'utilisation de Javascript au niveau serveur avec NodeJS",
+"sayfa": "36 Sayfa",
+"tarih": "2012",
+"boyut": "1.86 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=44301015&h=724cc8259c6288c2e9292f9cc6d2aad7"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/33d/33d2c6b16111f9115d19f8c1b568e942-s.jpg",
+"ad": "Developing realtime apps with Drupal and NodeJS - DrupalCamp",
+"sayfa": "30 Sayfa",
+"tarih": "2012",
+"boyut": "1.97 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=6589624&h=\" data-download-page="
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/6b3/6b3f5406b6fa831e26ecae7d435b3e8d-s.jpg",
+"ad": "Getting Started with NodeJS. - Attune World Wide",
+"sayfa": "43 Sayfa",
+"tarih": "2016",
+"boyut": "1.56 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=17433395&h=805accb4e1deb4e5927dd500462b3513"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/39c/39cf8ed618875cfe793a8ad3ced93f20-s.jpg",
+"ad": "Desarrollo de APIs RESTful con NodeJS",
+"sayfa": "23 Sayfa",
+"tarih": "2014",
+"boyut": "352 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=63306783&h=1c41e3ce4a9ffc46b0e0416fb540cfbd"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/512/512475efab89630574ce53469a26da60-s.jpg",
+"ad": "Membangun Website Lowongan Kerja Sederhana dengan NodeJS",
+"sayfa": "41 Sayfa",
+"tarih": "2014",
+"boyut": "1.27 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=44472684&h=2e4b198aed8566ae275f79cbdadfa5bf"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/97f/97fe47ae10dbcc3aee28e67a2b0a17b7-s.jpg",
+"ad": "HTML5 Web Sockets, Ruby & NodeJS.",
+"sayfa": "33 Sayfa",
+"tarih": "2010",
+"boyut": "608 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=1775125&h=\" data-download-page="
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/41b/41bb2adb5d3b6223ffbc8876adb7e3fe-s.jpg",
+"ad": "Catbook Workshop: Intro to NodeJS",
+"sayfa": "30 Sayfa",
+"tarih": "2012",
+"boyut": "276 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52799498&h=3a82cbb49dc2797735cddd08431970ce"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e18/e18ce93855dd7b5b6114d19d61ace6a3-s.jpg",
+"ad": "Nodejs Kitap",
+"sayfa": "18 Sayfa",
+"tarih": "2016",
+"boyut": "605 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=59648561&h=924e338282f61f89da569cc8a72cebdd"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/508/508ce3103eb125952c0147d45d68b62a-s.jpg",
+"ad": "Developing a NodeJS mock back-end for a mobile application",
+"sayfa": "17 Sayfa",
+"tarih": "2015",
+"boyut": "872 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=19726910&h=8980f2f534511bc6014ce4f2092a54aa"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a65/a65ae9c9fd3fcdead486a8b3621a53a3-s.jpg",
+"ad": "moving away from nodejs to a pure python solution for assets",
+"sayfa": "24 Sayfa",
+"tarih": "2012",
+"boyut": "424 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=46314812&h=8d8483340522776a63e9aef193c72222"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/17d/17d8464484efd288fdb3bc0d44a52205-s.jpg",
+"ad": "AngularJS, NodeJS y MongoDB",
+"sayfa": "13 Sayfa",
+"tarih": "2012",
+"boyut": "914 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45574720&h=4f8192600423cdaf88f5d9a4308bf86c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ead/ead5b7b3c871d46d2672d79f4970228a-s.jpg",
+"ad": "Nodejs with Koa2",
+"sayfa": "18 Sayfa",
+"tarih": "2016",
+"boyut": "375 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=30682886&h=f837189bd7989a19ec3b04c34f829dac"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b7e/b7ef818205a67cf91a6a0cf4b8e6cec6-s.jpg",
+"ad": "Getting Started with the ArcGIS REST API and NodeJS",
+"sayfa": "12 Sayfa",
+"tarih": "2016",
+"boyut": "5.71 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=27338603&h=76541f165edced49c1a441d61817868a"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a88/a880a83be6112b60050224818692c34c-s.jpg",
+"ad": "nodejs-security-handbook",
+"sayfa": "20 Sayfa",
+"tarih": "2017",
+"boyut": "3.87 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=198530522&h=0b90af42008b1c98a36a875b26ae936c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e72/e72cb249c2388f59d0a52addb9f8a83d-s.jpg",
+"ad": "JDEV 2017 – Marseille Angular NodeJS TypeScript Bertrand Estellon",
+"sayfa": "20 Sayfa",
+"tarih": "2017",
+"boyut": "755 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=51421887&h=dda2b2a26452760fd611dc327317b7c3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/4f4/4f408c0224d3213d8a5b368ccd1e7e57-s.jpg",
+"ad": "Web-based application for Collaborative Ethical Decision Making",
+"sayfa": "122 Sayfa",
+"tarih": "2013",
+"boyut": "5.68 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=49979772&h=da55bc0707d4ed2baf98474f21de6290"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/c8a/c8acd6b0182a4762645832177bbd2102-s.jpg",
+"ad": "World of NodeJS on IBM i",
+"sayfa": "21 Sayfa",
+"tarih": "2016",
+"boyut": "1.13 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=36828400&h=bee1501525f2e595971a325d434ae3a1"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/589/58970c9f37e59811c425e0fb82464c5f-s.jpg",
+"ad": "Nodejs Installation",
+"sayfa": "17 Sayfa",
+"tarih": "2015",
+"boyut": "2.29 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=86266174&h=45063713d8a6554569efed33709695f7"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/cb0/cb0f658f3bc1dfd05adadbdeb3e29ee7-s.jpg",
+"ad": "high class web development for nodeJS - Dennis Reimann",
+"sayfa": "17 Sayfa",
+"tarih": "2010",
+"boyut": "2.9 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=9570696&h=\" data-download-page="
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a5f/a5fedfbf3e17a6c45c6737aa0f489cbb-s.jpg",
+"ad": "Inteligencia artificial para la realizaci´on de procesos comunes mediante Watson, NodeJS y Blue ...",
+"sayfa": "14 Sayfa",
+"tarih": "2017",
+"boyut": "1.31 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=55131012&h=4346d581ccce852fe140149b8496bf74"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/13e/13e6b18def27bd67d08db35292a50ebf-s.jpg",
+"ad": "nodejs aws sdk",
+"sayfa": "17 Sayfa",
+"tarih": "2012",
+"boyut": "78 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38499170&h=d7c0c2d8b25e775fabbe916dd8cd0983"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/39a/39afccb0e1c80b01dfa2362648274b45-s.jpg",
+"ad": "NodeJS i baze podataka",
+"sayfa": "12 Sayfa",
+"tarih": "2017",
+"boyut": "477 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58752641&h=f6ef6b5efbc62b729fb511c2e4eef72d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/8f5/8f54278eeaf1203ff36fa820c9694ee1-s.jpg",
+"ad": "update-nodejs-and-nodered",
+"sayfa": "17 Sayfa",
+"tarih": "2016",
+"boyut": "66 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39942890&h=c969c83186dcabd0161f1dcd6528e124"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e42/e423cf3ad1d966096e9ccf4033319384-s.jpg",
+"ad": "Building Tools with GitHub: Customize Your Workflow",
+"sayfa": "301 Sayfa",
+"tarih": "2016",
+"boyut": "11.47 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=167307428&h=1da137a7da7cb5a52338e75f29e678d6"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/9ec/9ece94aa55ffa65f9356784ca5a60775-s.jpg",
+"ad": "Requisitos del software",
+"sayfa": "185 Sayfa",
+"tarih": "2016",
+"boyut": "2.68 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=118391239&h=10aa9099ca3da525efdc9ef86cd62ecb"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/50a/50ad653177c5dc79100b7a7c580b9fe8-s.jpg",
+"ad": "Optimisation de la chaine logistique des déchets non dangereux",
+"sayfa": "128 Sayfa",
+"tarih": "2017",
+"boyut": "1.32 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58674517&h=4d42679d82be05880fff2412acfe4950"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/7e3/7e39b0e7f6dcd8cc077ad272f8c85d7a-s.jpg",
+"ad": "webassets & dukpy free yourself from nodejs",
+"sayfa": "24 Sayfa",
+"tarih": "2012",
+"boyut": "425 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=51652133&h=4d21eed7791ba24c0657787574bcb78d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/6b8/6b81b20b17c3671ab6adaba582b4edf1-s.jpg",
+"ad": "NodeJS, MongoDB and Visual Studio Code installation guide",
+"sayfa": "15 Sayfa",
+"tarih": "2017",
+"boyut": "1.2 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45839208&h=254c1e078979288ff6dbaa609beac1c3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ec3/ec33c245140748a0fc3ea6b42ab0651f-s.jpg",
+"ad": "Podstawy NodeJS",
+"sayfa": "13 Sayfa",
+"tarih": "2017",
+"boyut": "1.28 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=99900438&h=b234056daea0065ff0eddfa46833806a"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/4dd/4dd4884b80d6e25c150a95ccfea06746-s.jpg",
+"ad": "Développement Web avancé",
+"sayfa": "84 Sayfa",
+"tarih": "2016",
+"boyut": "1.6 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38679037&h=cea2b8dad93b55434b34f54549926832"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/edd/eddf565ebe56296b67d14932cd57e7cd-s.jpg",
+"ad": "LinkIt Smart 7688 Duo 物聯網IoT教學",
+"sayfa": "93 Sayfa",
+"tarih": "2016",
+"boyut": "4.8 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=44207872&h=7db00e7f16959e502248be94e7e6b89a"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/4b5/4b5447a7586d95ba860ee2599aadd303-s.jpg",
+"ad": "Instant Node.js Starter",
+"sayfa": "48 Sayfa",
+"tarih": "2013",
+"boyut": "982 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=157825634&h=f6e1cd7a7e065d74bfc248afb7eb7ba4"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/cc7/cc7f23b8d2cb8dce4f802d56290b69f2-s.jpg",
+"ad": "aplikasi asisten praktikum menggunakan nodejs dan database mongodb",
+"sayfa": "12 Sayfa",
+"tarih": "2017",
+"boyut": "717 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57083901&h=358af59252977260d8885a3c3b724b62"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/27d/27d895aa00557af7dbec1e61bc9bab0c-s.jpg",
+"ad": "Single Page Web Applications",
+"sayfa": "433 Sayfa",
+"tarih": "2013",
+"boyut": "12.47 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=27076636&h=e59dee3471399dbaf355a173ffb2c701"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/65f/65fcf22f540681080f5a6c3c1b17805a-s.jpg",
+"ad": "Building Tools with GitHub: Customize Your Workflow",
+"sayfa": "427 Sayfa",
+"tarih": "2016",
+"boyut": "7.44 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=187380474&h=e7661460c139d0075c4543e41c3da358"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/59c/59c7aafa76bb4b64dfdb73ac87f22f04-s.jpg",
+"ad": "Full Stack JavaScript",
+"sayfa": "208 Sayfa",
+"tarih": "2015",
+"boyut": "2.42 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=55248979&h=4046a2665127871f28fa4333feb4c9ff"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/8f9/8f91a0018f732dda3a8fe0d788cf7078-s.jpg",
+"ad": "Starting from Scratch with the MEAN Stack",
+"sayfa": "88 Sayfa",
+"tarih": "2015",
+"boyut": "5.53 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=28657337&h=ccbde28f24aeeb075d315ecef1741a94"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/172/1728d0b29c409d099cf51dc0c0b64bf5-s.jpg",
+"ad": "Node.js - Code School",
+"sayfa": "107 Sayfa",
+"tarih": "2012",
+"boyut": "11.37 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=6589604&h=39ad31811beb36ab957b0c27feb54a06"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/cac/cac0cab0eb5a718fa3af5fc7f0b307ad-s.jpg",
+"ad": "Meteor Design Patterns",
+"sayfa": "275 Sayfa",
+"tarih": "2015",
+"boyut": "2.91 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=194713653&h=5b730e93326fe3baeb35e01141dba23c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/91e/91eb5d559e012c4350b22ffbf945593a-s.jpg",
+"ad": "Orchestration Tool Roundup",
+"sayfa": "77 Sayfa",
+"tarih": "2016",
+"boyut": "3.89 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=28302320&h=b1ba48c9f7f0e2e3b89bc5ecb194f6bf"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f9f/f9ffb8682f85d2ef22afc1ffc7d60f8f-s.jpg",
+"ad": "JavaScript, ¡Inspírate!",
+"sayfa": "149 Sayfa",
+"tarih": "2017",
+"boyut": "1.2 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52648203&h=847f24b2de0b02576f1b2420f873b720"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/6d9/6d9a3f026022be6ea2033f64d79a1c4f-s.jpg",
+"ad": "The CLI Book: Writing successful Command Line Clients with Node.js",
+"sayfa": "122 Sayfa",
+"tarih": "2016",
+"boyut": "2 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=194769856&h=2c4af93997e91f68e24d90f0c98db654"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a39/a3909c5ac68693cafdc1ed815f6524f4-s.jpg",
+"ad": "Practical Course",
+"sayfa": "39 Sayfa",
+"tarih": "2016",
+"boyut": "1.16 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=34668042&h=23330ab7f5f3e11c566e3848cfb1be95"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/1c6/1c6173d6e55847c40c713e98ffdfad5d-s.jpg",
+"ad": "Single Page Web Applications",
+"sayfa": "433 Sayfa",
+"tarih": "2013",
+"boyut": "13.05 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=48072982&h=8b42e4c08166fd16dd3a3bf116680e48"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b65/b658ac7f3d5654188c08f0e40557a374-s.jpg",
+"ad": "From APIs to Microservices: Design and Build",
+"sayfa": "89 Sayfa",
+"tarih": "2012",
+"boyut": "6.47 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52691150&h=9bed67c336b0e72c5516d4aba8a4c261"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d68/d685de1a8ba03922d0fca6617a3e6ab8-s.jpg",
+"ad": "Alexander Lobashev, RaiffeisenBank",
+"sayfa": "60 Sayfa",
+"tarih": "2017",
+"boyut": "724 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=55949088&h=83a3a97614f714ee3b392fc5c6125f10"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/5ba/5baddc456e0c14d32388f1f31da42dc4-s.jpg",
+"ad": "Deploy Ceph cluster",
+"sayfa": "53 Sayfa",
+"tarih": "2017",
+"boyut": "210 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45686024&h=ce89353952fab538d2c0f34915e09132"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/40f/40fa5bcc29503c1495eed16d8a62bdc6-s.jpg",
+"ad": "Faculty of Science and Technology",
+"sayfa": "68 Sayfa",
+"tarih": "2014",
+"boyut": "1.14 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=49961384&h=114359532c33a64a8acb6123f6d5848e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d37/d379e82d9b3ab9062d8ba776b5b1070c-s.jpg",
+"ad": "Building Tools with GitHub: Customize Your Workflow",
+"sayfa": "505 Sayfa",
+"tarih": "2016",
+"boyut": "7.4 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=194817554&h=ceb7a5a51cad4ef8b859448f5e48b3f3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/0f0/0f03b5a88cc17c58e0f4e79b920472f9-s.jpg",
+"ad": "Glossary",
+"sayfa": "51 Sayfa",
+"tarih": "2017",
+"boyut": "1.07 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=47979528&h=496e50459f35fb47ba066ff919c9a90d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/fb0/fb0240ce4637f3ff87d830b570379043-s.jpg",
+"ad": "Hacking Serverless Runtimes Profiling Lambda, Azure, and more.",
+"sayfa": "108 Sayfa",
+"tarih": "2012",
+"boyut": "5.69 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45952942&h=8bc0a736e9fcfd5374d9f23720739a95"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/01d/01d79e108f7b47dbe69c054d5e3da6b0-s.jpg",
+"ad": "View Resume Book",
+"sayfa": "149 Sayfa",
+"tarih": "2017",
+"boyut": "12.27 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58429187&h=ded08b2a8885d99e25f0bef380f1e04c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/de5/de5d140c7ff44c532aa92e97d1c8fc00-s.jpg",
+"ad": "Model-Driven Development of REST APIs",
+"sayfa": "102 Sayfa",
+"tarih": "2015",
+"boyut": "3.68 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=49369406&h=23d6a4d533d2dad054648195bfdc4ebe"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/08d/08db44afb236874547e680b320d9d157-s.jpg",
+"ad": "The CLI Book: Writing successful Command Line Clients with Node.js",
+"sayfa": "104 Sayfa",
+"tarih": "2016",
+"boyut": "2 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=194769912&h=98360627b7d754901103121e0263c82d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/3e3/3e3892e8e15cb11faeb000577960e3a5-s.jpg",
+"ad": "The CLI Book: Writing successful Command Line Clients with Node.js",
+"sayfa": "104 Sayfa",
+"tarih": "2016",
+"boyut": "2 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=194769765&h=693966360be8c31c8d6ab1a038f42dd9"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a8f/a8fc5b27a7377d1dcae27e43e5c38de4-s.jpg",
+"ad": "HTML5 and CSS3 Responsive Web Design Cookbook",
+"sayfa": "204 Sayfa",
+"tarih": "2013",
+"boyut": "6.15 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=51898000&h=fe70c7ffc4244a0b2aff0e7139c11a0e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ddb/ddb0f2c9ac403e3fa9d7c0dc393a2d2e-s.jpg",
+"ad": "ArangoDB Cookbook",
+"sayfa": "145 Sayfa",
+"tarih": "2017",
+"boyut": "1.77 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=60077113&h=16d3477ed61a8b77e7cd115d239870b3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/86d/86decea57922d77658f90462129a1292-s.jpg",
+"ad": "Monitorización de servidores Cloud",
+"sayfa": "128 Sayfa",
+"tarih": "2016",
+"boyut": "9.15 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=158944990&h=8eee9f1443c3472160f6b79ee38482eb"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f40/f401e782ca55ca7d7ee6857018b5c1b1-s.jpg",
+"ad": "Panel frontal para el controlador IoT de Smart University",
+"sayfa": "117 Sayfa",
+"tarih": "2017",
+"boyut": "8.64 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58691314&h=aaeea0bd921099ab33975bc668ced4e6"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/43c/43c970f04c1322432b3e9c6dcfca9328-s.jpg",
+"ad": "AWS Cloud9",
+"sayfa": "511 Sayfa",
+"tarih": "2017",
+"boyut": "5.53 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=105567624&h=4c63b5b7158769276febd7b8eb3159d5"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/56d/56ddc3262e263ec150f93723e397ef3a-s.jpg",
+"ad": "Rockstar Developer",
+"sayfa": "482 Sayfa",
+"tarih": "2016",
+"boyut": "5.3 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57763818&h=14fc11238e4433e639b73de9aad2ceb0"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/df1/df1c32b0c3ca93670d2cffa74966ccb1-s.jpg",
+"ad": "Diseño de un sistema para la recolección de datos de riego de cultivos",
+"sayfa": "179 Sayfa",
+"tarih": "2017",
+"boyut": "3.34 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=53682601&h=1b30796c664b6883f08782838def0146"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/af0/af0272a5024760f4589ad1f6d9b60ef8-s.jpg",
+"ad": "Model-Driven Development of REST APIs",
+"sayfa": "102 Sayfa",
+"tarih": "2015",
+"boyut": "3.68 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=62580967&h=23d6a4d533d2dad054648195bfdc4ebe"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e8a/e8afed8ced2acd6bb3b9335533483342-s.jpg",
+"ad": "análisis, diseño, construcción e implementación de un sistema informático para gestionar y",
+"sayfa": "131 Sayfa",
+"tarih": "2015",
+"boyut": "3.21 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=73895781&h=3965c59bb8dd0f82c68291b0de2632d9"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/050/0509c48eb38182353fdc66bb8ce066fe-s.jpg",
+"ad": "Model-Driven Development of REST APIs",
+"sayfa": "102 Sayfa",
+"tarih": "2015",
+"boyut": "3.68 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52511082&h=23d6a4d533d2dad054648195bfdc4ebe"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f17/f171a0fca986130ab598c18a687984df-s.jpg",
+"ad": "Ανάπτυξη Έξυπνων Συμβολαίων στο Blockchain και εφαρμογή στο IoT ΔΙΠΛΩΜΑΤΙΚΗ",
+"sayfa": "120 Sayfa",
+"tarih": "2017",
+"boyut": "4.05 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=127953757&h=3ed7b14e8b436056d32b1541e1658e87"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/c1f/c1fa91c672bc09a260ff490774066279-s.jpg",
+"ad": "Cloud Computing Day 5 10-20-13.pdf - IAAS",
+"sayfa": "164 Sayfa",
+"tarih": "2013",
+"boyut": "11.54 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=16113795&h=14d654e0f637fac17003a3ddf93f63d4"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/38e/38e6b3707bf1d10d865d3dcbce82f7ab-s.jpg",
+"ad": "DebOps Documentation",
+"sayfa": "543 Sayfa",
+"tarih": "2016",
+"boyut": "1.41 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=22207244&h=03c946108c9cc6608d7c405ccb9897be"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/592/592c31d50378cbc584d5cad964bee302-s.jpg",
+"ad": "Abrir",
+"sayfa": "108 Sayfa",
+"tarih": "2015",
+"boyut": "4.28 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=34217730&h=d3818e8a0c2915390c10bc2e86f01b1f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/c3f/c3f83772fbd3dc1d540fe51c250ce2b5-s.jpg",
+"ad": "Untitled - Wild Code School",
+"sayfa": "112 Sayfa",
+"tarih": "2017",
+"boyut": "3.02 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=54404953&h=b64fa282bbd6fa4acb3be853a2bb5d17"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/5cb/5cbb39ccd6e72214fdfedd559533da64-s.jpg",
+"ad": "Untitled - MIAGE Nice Sophia Antipolis - Université de Nice Sophia",
+"sayfa": "108 Sayfa",
+"tarih": "2013",
+"boyut": "1.63 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=9378091&h=2cd857fbfe733ab088fbdd8641929f63"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/c32/c325aa3ff09ea3761abc165381adc2d9-s.jpg",
+"ad": "Self Study Report",
+"sayfa": "530 Sayfa",
+"tarih": "2016",
+"boyut": "13.35 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=41608936&h=064cacd3ee8132598c4984215c71b7d6"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a00/a00fb911cd155656fc32eb625c5a4f03-s.jpg",
+"ad": "Amazon Mechanical Turk - Legacy API Reference",
+"sayfa": "239 Sayfa",
+"tarih": "2017",
+"boyut": "1.64 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=93778224&h=d8f04c363a077ff93cf77afb2507befb"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ee5/ee584b42026be3740a10bea5e9a50ec3-s.jpg",
+"ad": "IPython Documentation",
+"sayfa": "522 Sayfa",
+"tarih": "2016",
+"boyut": "4.19 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=37517235&h=c542089f8ee3a84c1f67c65360bcf295"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b29/b2998896093ba9804e2f4e4abbf6fd88-s.jpg",
+"ad": "Les Licences professionnelles",
+"sayfa": "139 Sayfa",
+"tarih": "2017",
+"boyut": "2.63 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=56589772&h=873b1daf5ff29f5baf335572314479da"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/1ec/1ec17f53516ab230607ce193ef561beb-s.jpg",
+"ad": "Planeamiento Estratégico de la Industria de Videoentrevistas Asíncronas en Perú",
+"sayfa": "224 Sayfa",
+"tarih": "2016",
+"boyut": "4.57 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=50666459&h=a7f9348f0978fbd96462b8483eb2269e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f80/f808c50c956de974fe364b89b9a77380-s.jpg",
+"ad": "sistem multi pos usaha mikro kecil menengah terintegrasi menggunakan restfull api",
+"sayfa": "105 Sayfa",
+"tarih": "2017",
+"boyut": "5.67 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57134768&h=2391f46088a54bed23aac9dd0af07574"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/8fb/8fb956414093d7b62816388963e19b08-s.jpg",
+"ad": "Concurrency? - Godfat",
+"sayfa": "132 Sayfa",
+"tarih": "2012",
+"boyut": "10.29 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=5827380&h=5989153d8d029cf11a6f13cab19d76ab"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/2b8/2b85f1906a4433fc696aa718bfe2f0ac-s.jpg",
+"ad": "Concurrent Ruby Application Servers - Godfat.org",
+"sayfa": "132 Sayfa",
+"tarih": "2012",
+"boyut": "10.29 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=16275977&h=5989153d8d029cf11a6f13cab19d76ab"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/fc4/fc45cf89f59f72bc0428b889447dbb1e-s.jpg",
+"ad": "ArangoDB Cookbook",
+"sayfa": "145 Sayfa",
+"tarih": "2017",
+"boyut": "1.77 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52366865&h=e9f8fc2b605eec2d397851989166c5c0"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/c83/c831ded58dd7885af49b329a08b18559-s.jpg",
+"ad": "Mizu WebPhone",
+"sayfa": "176 Sayfa",
+"tarih": "2017",
+"boyut": "822 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=60626780&h=67933cd9ee421c00f1bbbb34acb480a2"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/8f8/8f865f768fc8fe569af50123fc0fe115-s.jpg",
+"ad": "Sistema para el reconocimiento de estrés en voz",
+"sayfa": "130 Sayfa",
+"tarih": "2016",
+"boyut": "2.58 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=50160161&h=625a2a6344da5f34d769877affb8bda2"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/212/2123c6f7587d9b5ed7b14d927de89934-s.jpg",
+"ad": "Rockstar Developer",
+"sayfa": "482 Sayfa",
+"tarih": "2016",
+"boyut": "5.3 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=44603158&h=14fc11238e4433e639b73de9aad2ceb0"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/841/84146a66dc97676b0aad40cc371fd816-s.jpg",
+"ad": "Contents - Amazon Web Services",
+"sayfa": "119 Sayfa",
+"tarih": "2014",
+"boyut": "569 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=16162768&h=fd968deb409238d83c92126b3c83d753"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/dd3/dd3dc2ee6e768e2516d90c2636417985-s.jpg",
+"ad": "sistema de reservas online de salas de ensayo",
+"sayfa": "165 Sayfa",
+"tarih": "2017",
+"boyut": "11.21 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=197802326&h=b6c98bae225d8e62013f2c24053659ae"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/354/3544574c42a8179c08db8823c58cbdaf-s.jpg",
+"ad": "catálogo habilitadores tecnológicos en industria 4.0",
+"sayfa": "174 Sayfa",
+"tarih": "2017",
+"boyut": "905 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=50454792&h=a4cda890cc0a70b73281d1e8fd361b8a"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/eda/edab43c1e6d43e6411f3d92a54a3baa9-s.jpg",
+"ad": "sviluppo di un sistema di e-health per il tracciamento dei parametri vitali nella gestione dei traumi",
+"sayfa": "163 Sayfa",
+"tarih": "2017",
+"boyut": "17.73 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=69231709&h=20c51ed270704506de3bf680c07b62cc"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/326/3260a9903d6167c040351a0b43e60ca5-s.jpg",
+"ad": "Self Study Report",
+"sayfa": "509 Sayfa",
+"tarih": "2016",
+"boyut": "16.86 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=40663115&h=20beec2fcc5b27524ba6da7675722d3c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e5a/e5ad04fad53729659e9095393e10b307-s.jpg",
+"ad": "Sistema de monitorización y predicción de datos en un invernadero de rosas basado en Wireless ...",
+"sayfa": "105 Sayfa",
+"tarih": "2017",
+"boyut": "4.9 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=55149611&h=5fbdca8c1d84e4c69ac9451134e4b387"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a02/a029ab11362f075c1e4244e183dc0dfa-s.jpg",
+"ad": "leurs pairs de la promo 2017",
+"sayfa": "128 Sayfa",
+"tarih": "2016",
+"boyut": "11.84 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39757840&h=84488e2b80560b8f4c313a934f1c6816"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/eaa/eaa5318aae1e1c2bb12a238abcf99e97-s.jpg",
+"ad": "Diego da Silva Marques ABORDAGEM DE DESENVOLVIMENTO UTILIZANDO JAVASCRIPT",
+"sayfa": "150 Sayfa",
+"tarih": "2017",
+"boyut": "3.57 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=79613500&h=3c6073f5affaf247a41a7e8d5f708085"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/c36/c36e76de2ad3258effcdf46e9db4b2d3-s.jpg",
+"ad": "Hinweis Changelog Open-Source Licenses and Copyright-Statements Table of Contents",
+"sayfa": "436 Sayfa",
+"tarih": "2017",
+"boyut": "2.19 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=100824270&h=e5985ce623b3270d88fadeecaca9a675"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f1c/f1c5b8fec31e6dd99e93a3484a1dd2e6-s.jpg",
+"ad": "Modelo para Digitação",
+"sayfa": "118 Sayfa",
+"tarih": "2016",
+"boyut": "3.93 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=56257276&h=03daabe7f6f31fd663f06f1be858685a"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/286/286e9554d0f9396967f9a4cc24ee7528-s.jpg",
+"ad": "MSc Thesis Template Document",
+"sayfa": "153 Sayfa",
+"tarih": "2015",
+"boyut": "3.75 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=50784589&h=ab28e4936284acbf380d43d9f28b2abd"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/8f9/8f9b37bf9c3386934c58a3cf6a21a86e-s.jpg",
+"ad": "Juan Quemada, DIT, UPM",
+"sayfa": "120 Sayfa",
+"tarih": "2016",
+"boyut": "8.2 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=34080135&h=cf13e87fc56b9b0f1f41672d3e330c03"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ee7/ee71b098887fdcc6ff04fd8a18b31434-s.jpg",
+"ad": "Einstieg in die WWWeb-Programmierung",
+"sayfa": "103 Sayfa",
+"tarih": "2013",
+"boyut": "877 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45486787&h=396af5f32446f645603798d9e706404d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/cca/cca9177d4a83cba39e83290be00e8e2f-s.jpg",
+"ad": "Additional License Authorizations for HPE OneView Global Dashboard",
+"sayfa": "426 Sayfa",
+"tarih": "2017",
+"boyut": "2.7 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57543099&h=1fbde495741bfc89ab553091689e861b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/791/7911f8db19e0fd0359dcd1f22e4afb40-s.jpg",
+"ad": "Untitled - Congreso Internacional UCEC 2018",
+"sayfa": "2,301 Sayfa",
+"tarih": "2017",
+"boyut": "30.8 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=59268565&h=3f9eacbeef05c26c03ff4e61385c008b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e87/e87f81ad6345ce7d8c43f33f10ba8a26-s.jpg",
+"ad": "fulltext - DiVA",
+"sayfa": "122 Sayfa",
+"tarih": "2013",
+"boyut": "5.68 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=15493135&h=da55bc0707d4ed2baf98474f21de6290"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/adf/adff486c7d1d6c8f7222417220d42b9f-s.jpg",
+"ad": "AppBuilder 1.0 - Sybase",
+"sayfa": "244 Sayfa",
+"tarih": "2013",
+"boyut": "2.69 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=15790918&h=7cee2f049d622c24a874a5383f184627"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/bd4/bd49930df147c8c5be2b814e8c041328-s.jpg",
+"ad": "CasperJs Documentation - Read the Docs",
+"sayfa": "152 Sayfa",
+"tarih": "2016",
+"boyut": "646 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=13922872&h=3778f720cb7095954d4c368af80c1959"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/654/65407c98a3d8bfa9da1a10295e0139bc-s.jpg",
+"ad": "Informe anual 2016",
+"sayfa": "153 Sayfa",
+"tarih": "2017",
+"boyut": "3.67 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58546902&h=b868c238da88cc9a8297bfd4c0d55587"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/706/706570b513e767fb5881fe453cd7ab0f-s.jpg",
+"ad": "научные исследования и разработки 2017 года",
+"sayfa": "204 Sayfa",
+"tarih": "2017",
+"boyut": "3.38 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=59834844&h=577edfe0e952837c53e8b5980ebed881"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/6d4/6d4c79ee9cdee5cc422ffff4d95fd741-s.jpg",
+"ad": "HPE Helion Stackato Open Source and Third-Party Software License Agreements",
+"sayfa": "801 Sayfa",
+"tarih": "2016",
+"boyut": "6.58 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=20605556&h=bc05a0bec0c30c892067197ff801200e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/7b4/7b4a654b8fc515e8cc5303c569c93f82-s.jpg",
+"ad": "HPE Security Fortify WebInspect Tools Guide",
+"sayfa": "268 Sayfa",
+"tarih": "2016",
+"boyut": "4.88 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=48117920&h=dd968ef91f73bc0d5d253de40eac3d24"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a10/a10d7539a8966429646ebea922122a06-s.jpg",
+"ad": "Budsjettapplikasjon",
+"sayfa": "170 Sayfa",
+"tarih": "2016",
+"boyut": "7.23 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=54387739&h=da0a96ce2827a2d36dfcd08f7bb15fd5"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/648/648abb60633cd54c650b8f1e6499cca6-s.jpg",
+"ad": "Modules with notices.pdf",
+"sayfa": "178 Sayfa",
+"tarih": "2012",
+"boyut": "1.44 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=42445326&h=5ad722a83fdb40815484446eb84c2c81"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/04d/04d0b9a6f4727cfacfeb7043232109d1-s.jpg",
+"ad": "Diseño de un sistema para la recolección de datos de riego de cultivos",
+"sayfa": "179 Sayfa",
+"tarih": "2017",
+"boyut": "3.34 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=164132578&h=1b30796c664b6883f08782838def0146"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/c67/c679bffae94a9c29143e05536e7d05f1-s.jpg",
+"ad": "La perspectiva del sabio",
+"sayfa": "130 Sayfa",
+"tarih": "2017",
+"boyut": "3.75 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=51205862&h=0f007b711f86e76d2ce6aa902834a04b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/85c/85cb30c9f5f407d2154e0e335174e8d5-s.jpg",
+"ad": "IST Shuttle - Booking, management and monitoring service",
+"sayfa": "112 Sayfa",
+"tarih": "2015",
+"boyut": "13.44 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=34642114&h=64cbac341ccce661964ab903daa79a09"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/c7d/c7dbbeb48564bd85dffe45eb1596155b-s.jpg",
+"ad": "La perspectiva del sabio",
+"sayfa": "130 Sayfa",
+"tarih": "2017",
+"boyut": "3.75 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=49941388&h=0f007b711f86e76d2ce6aa902834a04b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/580/5807aef4fef7003cd835060069991277-s.jpg",
+"ad": "ushahidi platform v3.4 manual",
+"sayfa": "108 Sayfa",
+"tarih": "2012",
+"boyut": "11.57 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=42928277&h=739f862b903c00808cbb5e6967fe5cfe"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e0b/e0b5c10df6ce8d417a61237d1eb7684e-s.jpg",
+"ad": "DigiExam Cross Platform-Klient",
+"sayfa": "105 Sayfa",
+"tarih": "2016",
+"boyut": "4.87 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=50201740&h=53f00f17bf3c40ad97a6e13cf4ddbbde"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/87d/87d1455c22918efd50741a57f6667ef0-s.jpg",
+"ad": "Mutokamwoyo Cloud",
+"sayfa": "98 Sayfa",
+"tarih": "2012",
+"boyut": "4.82 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=50059601&h=4ee314a4d37a35c065a871a0622832f4"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/59a/59a4c39aa31b207433a225ebc058b2a1-s.jpg",
+"ad": "sistem multi pos usaha mikro kecil menengah terintegrasi menggunakan restfull api",
+"sayfa": "105 Sayfa",
+"tarih": "2017",
+"boyut": "5.67 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=56702899&h=2391f46088a54bed23aac9dd0af07574"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/6c1/6c193f543a417230d301ed2a617ef3b7-s.jpg",
+"ad": "Journal of Science and Technology Mahasarakham University We are listed in the Thai-Journal",
+"sayfa": "160 Sayfa",
+"tarih": "2017",
+"boyut": "15.38 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=164390927&h=450a1bb37fdeb7176d8af61ef86264a9"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/1d9/1d969b6e16c497eb694e5b76562a58f1-s.jpg",
+"ad": "Evoko Liso",
+"sayfa": "96 Sayfa",
+"tarih": "2016",
+"boyut": "31.41 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=54153503&h=400346fd69f59b1453a94b021265a6f9"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a79/a795cced67654e303dc7b4c070b602ad-s.jpg",
+"ad": "Abrir",
+"sayfa": "98 Sayfa",
+"tarih": "2015",
+"boyut": "13.41 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39412221&h=8c5c4b2e272b0ffb13ce8decb84fe37b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/902/902c27005328b9b0d45e91582ab60106-s.jpg",
+"ad": "Untitled - Front page",
+"sayfa": "204 Sayfa",
+"tarih": "2013",
+"boyut": "5.79 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=70800990&h=3e5db9c887feac76269acb44afbe37ea"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d41/d41afc68f99d58e8af180b33e96ac718-s.jpg",
+"ad": "Untitled - AAU",
+"sayfa": "99 Sayfa",
+"tarih": "2017",
+"boyut": "6.21 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58775517&h=5e7865f2413a134532ce22c28ff3149e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/c32/c32710d27fcdaa0ea6e515ca998e58ae-s.jpg",
+"ad": "Plataforma de bajo coste para la monitorización y control de entornos inteligentes",
+"sayfa": "96 Sayfa",
+"tarih": "2017",
+"boyut": "14.4 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=44488602&h=5add44ab6c65e316bff4586707e8782d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ad4/ad4ebcd72586cfc95f32c7a15f76713d-s.jpg",
+"ad": "crop drone",
+"sayfa": "93 Sayfa",
+"tarih": "2016",
+"boyut": "1.49 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=60731972&h=2cf8882092c6a8723123f2e9f54e8c64"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/709/709112f4815038e06f32dd61f86303b7-s.jpg",
+"ad": "Big Data analytics on high velocity streams",
+"sayfa": "96 Sayfa",
+"tarih": "2013",
+"boyut": "2.23 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=6107482&h=\" data-download-page="
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/7d8/7d87d95b15710d09e8b66b10f8be06e1-s.jpg",
+"ad": "aplicativo móvel para gestão de pedidos e consulta de cardápios de estabelecimentos ...",
+"sayfa": "93 Sayfa",
+"tarih": "2015",
+"boyut": "1.68 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45597180&h=3cdff125971dec02487cd980e2a86cfe"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/7f7/7f79221b0d8315d651985804370b6570-s.jpg",
+"ad": "Journal of Science and Technology Mahasarakham University We are listed in the Thai-Journal",
+"sayfa": "160 Sayfa",
+"tarih": "2017",
+"boyut": "15.38 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=165027234&h=450a1bb37fdeb7176d8af61ef86264a9"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/4af/4af945877088775243084010157d9ff6-s.jpg",
+"ad": "Thesis - Tam Nguyen",
+"sayfa": "42 Sayfa",
+"tarih": "2017",
+"boyut": "1.77 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=50410078&h=e4dc18f3e932f12061fdfb4fd081e71e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/518/518e059d4975b786b37f2c8a6867582e-s.jpg",
+"ad": "Download PDF - Zombie.js",
+"sayfa": "43 Sayfa",
+"tarih": "2012",
+"boyut": "299 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=10139162&h=\" data-download-page="
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/aae/aae3ee11d066d7f0d4971b685d0ba6d2-s.jpg",
+"ad": "Developing Real-Time Data Pipelines with Apache Kafka",
+"sayfa": "40 Sayfa",
+"tarih": "2012",
+"boyut": "748 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=51015925&h=71df485a582148c53f465040bfb19012"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/6a5/6a50b094d6253b80431ac5d416d3e055-s.jpg",
+"ad": "Modelo de Plano de Projeto",
+"sayfa": "153 Sayfa",
+"tarih": "2014",
+"boyut": "3.92 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=128745765&h=eeb90b03a4d9e988264a3d32ebf694f1"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/749/74908370d439e5700e9dbcf32cb41e87-s.jpg",
+"ad": "B-CINT-PTG-N.361 Sánchez Elaje Meybol Johannee",
+"sayfa": "152 Sayfa",
+"tarih": "2017",
+"boyut": "2.55 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=94141377&h=a42cff1d51252e8dcbb8605c501e9ec5"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f77/f77501eaa999ee6bdea8aca144d59ab0-s.jpg",
+"ad": "單元8 物聯網x開源系統軟體.pdf",
+"sayfa": "97 Sayfa",
+"tarih": "2012",
+"boyut": "5.57 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=59429467&h=c517ae49e843f513f45229eb7f501f62"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b6b/b6b2400ec8668302a51cf5ad38920ffa-s.jpg",
+"ad": "geospatial analytics for coastal hazards",
+"sayfa": "94 Sayfa",
+"tarih": "2015",
+"boyut": "13.56 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=21304148&h=66be6d9904dfd093dbe44cf25169f32d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/be6/be6c66bf4c6e20920a2597a7c9d27eae-s.jpg",
+"ad": "DynamoDB Streams",
+"sayfa": "91 Sayfa",
+"tarih": "2016",
+"boyut": "2.89 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=49342104&h=52491e2bfc5bbae152c56cc9b9640610"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/aca/acaab80ab3423d1a66238032a1172f8d-s.jpg",
+"ad": "GNU MediaGoblin Documentation",
+"sayfa": "93 Sayfa",
+"tarih": "2016",
+"boyut": "537 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=20554437&h=974799d6995812e2595edb192aa50924"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b72/b72b87d205cf5e21bb30def65a50d954-s.jpg",
+"ad": "jahresbericht der fakultät für informatik",
+"sayfa": "92 Sayfa",
+"tarih": "2017",
+"boyut": "5.15 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=180595024&h=0d28a97e09bb8e346b78dae3dac67e09"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/1a9/1a9b6acaf6e8d7cc7d688b5f2daf995f-s.jpg",
+"ad": "Design and Implementation of a Unified Programming Framework for Things, Web and Cloud",
+"sayfa": "91 Sayfa",
+"tarih": "2014",
+"boyut": "1 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=41007199&h=b7ec30a19938cf7591d14a77a1e30bad"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/7af/7affe322cc9a2c97a3720ec93ec960d1-s.jpg",
+"ad": "Cahier des Charges",
+"sayfa": "92 Sayfa",
+"tarih": "2016",
+"boyut": "4.89 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=54884250&h=e101067381f2452bd606ea6ec9ee811b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/0c4/0c4945c8842bf0f3626adea93f89df89-s.jpg",
+"ad": "Optimización de la velocidad y rendimiento de Servicios Web",
+"sayfa": "90 Sayfa",
+"tarih": "2017",
+"boyut": "2.11 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57950824&h=08c3deb209f8a4be524103b7f89c1f15"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b74/b74bce2e107a04140ac033e2422b18ee-s.jpg",
+"ad": "Informe Proyecto Final Gutierrez - Paciuk.pdf",
+"sayfa": "87 Sayfa",
+"tarih": "2012",
+"boyut": "3.56 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39397721&h=5f8a60a06f563c2f8719111853b5a125"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/67f/67f19b8165ff4735a44dc045b8210312-s.jpg",
+"ad": "ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA INFORMÁTICA Ingeniería del Software",
+"sayfa": "93 Sayfa",
+"tarih": "2016",
+"boyut": "4.1 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=115241043&h=c2da1987c863b9438939d14ee4a42d4f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f55/f559cb4c52e334ced6bdec5f506df4d9-s.jpg",
+"ad": "crop drone: uma solução para coleta, armazenamento e disponibilização de dados agrícolas",
+"sayfa": "91 Sayfa",
+"tarih": "2017",
+"boyut": "3.81 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45187336&h=02e53e83fd510d14d68ad933275a4e7f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ff4/ff44be073aa00dcb686a5304b4decbf6-s.jpg",
+"ad": "629291.pdf",
+"sayfa": "91 Sayfa",
+"tarih": "2015",
+"boyut": "5.46 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=34124243&h=66cb96c4a43f455050213684eec79c7e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a32/a32505c4ccec29520ff3ce4c4c71fd0d-s.jpg",
+"ad": "Desarrollo del sistema web para manejo de Tickets de Ogangi",
+"sayfa": "87 Sayfa",
+"tarih": "2015",
+"boyut": "1 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=48840619&h=f0f5e80d9a0354b9492dfcc66516af7b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f28/f28bb1e2bdcce07dac6a31b8b577f38e-s.jpg",
+"ad": "B-Tech Computer Science & Engineering",
+"sayfa": "89 Sayfa",
+"tarih": "2017",
+"boyut": "978 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=55240044&h=2a7a7cf012f9f1503e4fc0f509ffc73e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/487/4879bfdc7889209d9df8183a76e5bb1a-s.jpg",
+"ad": "B-Tech Computer Science & Engineering",
+"sayfa": "89 Sayfa",
+"tarih": "2017",
+"boyut": "978 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=75728038&h=2a7a7cf012f9f1503e4fc0f509ffc73e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/16b/16b3fe7c2ab9ffaf83fa1cd75268fd81-s.jpg",
+"ad": "Optimización de la velocidad y rendimiento de Servicios Web",
+"sayfa": "90 Sayfa",
+"tarih": "2017",
+"boyut": "2.11 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=54688526&h=08c3deb209f8a4be524103b7f89c1f15"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ced/ced493ba6abe271e3a64b712f57bfa58-s.jpg",
+"ad": "PokemonGo-Map Documentation",
+"sayfa": "89 Sayfa",
+"tarih": "2016",
+"boyut": "5.47 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=20748525&h=bfe01a6e0fa5d0c7aca6c270f7f2b8f1"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/843/843c7a39f843e504352e1541895c3d32-s.jpg",
+"ad": "Sistema Inteligente para Aumento da Confiabilidade nas Informações sobre Transporte Público",
+"sayfa": "86 Sayfa",
+"tarih": "2014",
+"boyut": "5.62 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58212226&h=bccbf14402b294610777089368b3af33"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/9b3/9b36f7c9a38050fe0eb2b693bb4dbfd7-s.jpg",
+"ad": "DEVOPS FOOLS,TOOLS AND OTHER SMART THINGS",
+"sayfa": "81 Sayfa",
+"tarih": "2011",
+"boyut": "3.09 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=1424521&h=36e32f18de94006e799a99d67c7c2388"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/7ed/7edd3e0d330f469cf70d4e6ee335cd8c-s.jpg",
+"ad": "B-Tech Computer Science & Engineering",
+"sayfa": "89 Sayfa",
+"tarih": "2017",
+"boyut": "978 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=53393752&h=2a7a7cf012f9f1503e4fc0f509ffc73e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b51/b51002ff0d37af783e470fe5a2ae4cef-s.jpg",
+"ad": "diplomova prace.pdf",
+"sayfa": "89 Sayfa",
+"tarih": "2016",
+"boyut": "2.59 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=40015769&h=2a3a8f52ac906d45d684c290a01501d4"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/616/6167632fe741c630ad5df9cf019f4697-s.jpg",
+"ad": "Akka Java",
+"sayfa": "84 Sayfa",
+"tarih": "2012",
+"boyut": "4.68 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=51820798&h=8ce72129ecd48d7fb0772d4028617baa"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/62a/62a100dde89bbcb1fdb0a80c04fdd7e8-s.jpg",
+"ad": "Building APIs with Node.js",
+"sayfa": "31 Sayfa",
+"tarih": "2016",
+"boyut": "1.07 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=18834383&h=0822d4b3ed295329c02fdcad8f4e8a9c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ca4/ca467e90cbe9664b567855263bdf1149-s.jpg",
+"ad": "Integrity and confidentiality for web application code execution in untrusted clients",
+"sayfa": "84 Sayfa",
+"tarih": "2017",
+"boyut": "6.65 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=54601344&h=6a7ffdf40ebd1cc727b013fd061855d4"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/793/793a6e2817050f5e3dbe7daf15632b09-s.jpg",
+"ad": "Diseño de un portal para una red social de recetas",
+"sayfa": "81 Sayfa",
+"tarih": "2017",
+"boyut": "3.3 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=60301491&h=10c7ed1670f4a7ba277c98b26e1975bd"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/092/092afe51caf821e76dca61c0f867f19f-s.jpg",
+"ad": "entwicklung automatisierter tests zur überwachung der integration und performance von frontend ...",
+"sayfa": "82 Sayfa",
+"tarih": "2017",
+"boyut": "1.13 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=59673890&h=75c61b1c483df3a9235f5852138c471c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/58d/58dc9f8fdd228d8a70ef500a005cc6b1-s.jpg",
+"ad": "PFE Book 2018",
+"sayfa": "81 Sayfa",
+"tarih": "2017",
+"boyut": "5.9 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=51500147&h=cb7460e4c40cc153f19528751e034fd0"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b87/b877de9e72e95722ab0c4a8711df776c-s.jpg",
+"ad": "latest PDF - Read the Docs",
+"sayfa": "81 Sayfa",
+"tarih": "2016",
+"boyut": "288 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=12404617&h=1b5077e14e1bbcae46c4fbe53d6ae2d4"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/301/30188b5e68e8f95f94651cfb32869da5-s.jpg",
+"ad": "Progettazione e Implementazione di una piattaforma di Geofencing per il Context-Aware Advertising",
+"sayfa": "84 Sayfa",
+"tarih": "2016",
+"boyut": "7.12 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=43276744&h=9569527f86ab5ee00d931124ff87f13d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/0fb/0fb322e9820193b66839bf45f7f78664-s.jpg",
+"ad": "Continuous Delivery in Enterprise Environments using Docker, Ansible and Jenkins",
+"sayfa": "47 Sayfa",
+"tarih": "2017",
+"boyut": "5.53 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45633882&h=91506e7bdf8e6ce58e348f48cf69cf27"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/741/741d48e41a3ea9914530c83b94989f12-s.jpg",
+"ad": "深入浅出Node.js 什么是Node.js",
+"sayfa": "31 Sayfa",
+"tarih": "2012",
+"boyut": "615 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=152760518&h=c12322862951fdfe3836026a18414bd8"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/444/4443df34a882fccb15454ee66c7b40ae-s.jpg",
+"ad": "DevOps: Introducing Infrastructure-‐as-‐Code",
+"sayfa": "64 Sayfa",
+"tarih": "2017",
+"boyut": "5 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58937286&h=1f80274000227babca2620beaf7377b5"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/4db/4db1a316e784bfbb2d026123f9cb0a0a-s.jpg",
+"ad": "documento 15 maggio 5c-2017.pdf",
+"sayfa": "82 Sayfa",
+"tarih": "2017",
+"boyut": "537 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=46239512&h=8b2f7da1a93a5e1489562370dd6ab25e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/7bd/7bdbd3fe1f15f8c6b510e8f9d9028b3f-s.jpg",
+"ad": "Identification of JavaScript Function Constructors Using Static Source Code Analysis",
+"sayfa": "77 Sayfa",
+"tarih": "2016",
+"boyut": "1.2 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=40569095&h=f5a9e953877059b464976a9ff9b4e355"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/709/7093488dd5e4f286f71b4d565aae4b59-s.jpg",
+"ad": "Windows Azure",
+"sayfa": "80 Sayfa",
+"tarih": "2017",
+"boyut": "5.66 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58678816&h=7ae435a5d96fcfaa9faa2e143364eaa9"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/2b5/2b553cbf246a968ece6178227bf6971e-s.jpg",
+"ad": "Sequelize",
+"sayfa": "80 Sayfa",
+"tarih": "2017",
+"boyut": "2.5 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39433342&h=6acc7167f5c066231b5648af06b2a426"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/951/951d09d4367adb94838a433c6d17a673-s.jpg",
+"ad": "TDDE06 - Lecture 2 copy",
+"sayfa": "81 Sayfa",
+"tarih": "2017",
+"boyut": "5.08 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=43790024&h=2b37a288c9a769ea6396e77fc9072647"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/426/42618a8f3072c3c626d577baf4e2f937-s.jpg",
+"ad": "informe de actividades 2012",
+"sayfa": "82 Sayfa",
+"tarih": "2013",
+"boyut": "755 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=41931122&h=83040a52a31fa8c42b10397f11bacc82"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/0ff/0ffe7d39abbef6b4be725eb8c8434034-s.jpg",
+"ad": "OpenWhisk Tooling",
+"sayfa": "30 Sayfa",
+"tarih": "2017",
+"boyut": "8.75 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=44384162&h=a42e8a860816254506584cc0bfbdaf9a"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f1e/f1ea93f8ba54c0e2b844a5addcaf8b2c-s.jpg",
+"ad": "Maîtriser JMeter",
+"sayfa": "76 Sayfa",
+"tarih": "2015",
+"boyut": "6.24 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=26762581&h=9c02c63d4a6c3ea93ce3c7b502aa8cba"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/498/498694a033bb781f5e42d8b6da9a9fc7-s.jpg",
+"ad": "Herramientas de inteligencia de negocios orientada a la toma de decisiones para el sector salud",
+"sayfa": "81 Sayfa",
+"tarih": "2017",
+"boyut": "3.68 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=60386925&h=01d3a046eefdeead0a95290435f7338e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/010/0101aa4c1acbc63cbd6f77c70ca723ab-s.jpg",
+"ad": "Feature and Structure modeling, Structured Input/Output, Unsupervised Learning",
+"sayfa": "82 Sayfa",
+"tarih": "2017",
+"boyut": "4.02 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57867900&h=3c347c3ca6af101b9cc4a94e90257329"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/5f0/5f0e697e6ef9cfce215797c094287f37-s.jpg",
+"ad": "identification of javascript function constructors using static source code analysis",
+"sayfa": "77 Sayfa",
+"tarih": "2016",
+"boyut": "2.96 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=51578278&h=e29cf18a45261d8ad6e23d1f2513d0ff"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/049/0491c80b04f79d7ec68dda4644317aa1-s.jpg",
+"ad": "sipcapture",
+"sayfa": "75 Sayfa",
+"tarih": "2012",
+"boyut": "4.58 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=41186521&h=32294ba3494b240d50d988a169fc3cbb"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/229/2297339a359a8f0cd7a7dab6c26975c0-s.jpg",
+"ad": "A Guide to HTML5 and CSS3",
+"sayfa": "73 Sayfa",
+"tarih": "2014",
+"boyut": "1.41 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=26530815&h=b034a754cf5027468903f614d9e8bf98"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/101/1015f48cb449fbf6a106420fa9acd045-s.jpg",
+"ad": "an application to convert fiat money into a cryptocurrency",
+"sayfa": "13 Sayfa",
+"tarih": "2017",
+"boyut": "396 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=46841049&h=ad99b143535528fa1b4b1b3520e2501f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/44d/44de89a96fcdf5999ff6e314c6e625bc-s.jpg",
+"ad": "scaffold Documentation",
+"sayfa": "29 Sayfa",
+"tarih": "2013",
+"boyut": "146 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=22032236&h=268fa8cb013b9d4d80a84f5317dbb46b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/950/950998823cc63e4f80e62c9cd9ac8385-s.jpg",
+"ad": "The Serverless Revolution",
+"sayfa": "70 Sayfa",
+"tarih": "2017",
+"boyut": "15.07 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=47185240&h=4db7b63d8fc45de1d0964c5f603fdf11"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d78/d78c05ec706401d5a547df2568807763-s.jpg",
+"ad": "COMP XXX Tools of the Trade Documentation",
+"sayfa": "77 Sayfa",
+"tarih": "2016",
+"boyut": "303 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=24844606&h=97094e358c95734516fdffcd062172bf"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/2f0/2f0b8fa08c7594be6cb6a85e026e33f8-s.jpg",
+"ad": "Public SII",
+"sayfa": "76 Sayfa",
+"tarih": "2017",
+"boyut": "7.33 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38813054&h=08b338db3c9240f10aab2fbc07210ec1"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/fef/fefd06b7c0a9b328d4114a3d7d06c0c4-s.jpg",
+"ad": "Automatic comparison of interactomes",
+"sayfa": "78 Sayfa",
+"tarih": "2017",
+"boyut": "1.33 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58534398&h=dde11817e727aa6c4bb05b375ba8e26e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/79a/79a59e0c91a426c9230035d3314c0d3f-s.jpg",
+"ad": "PFE Book 2018",
+"sayfa": "78 Sayfa",
+"tarih": "2017",
+"boyut": "4.04 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57977143&h=0bd1fa3c20ab1e90d580f379ffa5f8a7"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/498/4988cdd174ad8ae322ec702db9709acc-s.jpg",
+"ad": "Nimble API Documentation - Read the Docs",
+"sayfa": "77 Sayfa",
+"tarih": "2016",
+"boyut": "437 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=6749127&h=80c12e62b3a9665b213dafd07d63c1ab"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b32/b32c98ea42d00cdc3330cc4ffc0022c3-s.jpg",
+"ad": "Aplicacion Movil Segura para Combatir la Violencia de Genero.",
+"sayfa": "76 Sayfa",
+"tarih": "2017",
+"boyut": "1.34 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=116236884&h=f1647da7eedf58e5b00caa6f4f2ede7f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/121/121030eb714eb2845932dd8c83d10005-s.jpg",
+"ad": "Vicente Hidalgo Santamaría Tutor",
+"sayfa": "76 Sayfa",
+"tarih": "2015",
+"boyut": "5.42 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=169920066&h=d5902cb8217c149b465c4485c44008e4"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/772/7728916ddac4aa3983a4aaaec2e946e0-s.jpg",
+"ad": "Arquitectura Domótica de bajo coste",
+"sayfa": "69 Sayfa",
+"tarih": "2017",
+"boyut": "4.9 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=138664310&h=576c17839878d5ac2210e209e6e2a94c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/095/095f63aa809394ddcd78902d4f359a41-s.jpg",
+"ad": "Bakalářská práce",
+"sayfa": "75 Sayfa",
+"tarih": "2017",
+"boyut": "5.55 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=62433369&h=8288300ff7c943778b309bf682a5d74a"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e87/e87434b23af7f4ac1ff1a2224899b9ee-s.jpg",
+"ad": "Distributed Things",
+"sayfa": "72 Sayfa",
+"tarih": "2015",
+"boyut": "462 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=29366637&h=e457c3869021bc212050d11322c6d9b8"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/910/910c0625171e881f46db6796a27911b1-s.jpg",
+"ad": "The Broadcast Marketplace",
+"sayfa": "74 Sayfa",
+"tarih": "2012",
+"boyut": "7.4 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=27922429&h=4e471f0f3525322e3c04081d7e875d21"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/3f9/3f9f970fe44b21185a9bf36e11add2e2-s.jpg",
+"ad": "Saison 11 le 27 mars à 20h",
+"sayfa": "75 Sayfa",
+"tarih": "2017",
+"boyut": "616 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58375652&h=94fbe4fbbaf7592aa7554dc7c8cc3ce9"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/1be/1be05583a66c0d7739f91d9a1064cce7-s.jpg",
+"ad": "Teaching Practical Software Maintenance: Students' Impression of Learning in a Software ...",
+"sayfa": "72 Sayfa",
+"tarih": "2017",
+"boyut": "433 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=47387148&h=7998095f1141f0dbb50dffbece077f71"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/c68/c68e8e4e63b3dcfd4f1e77a872ede6e9-s.jpg",
+"ad": "Dise˜no e implementación del sistema de gestión de redes wireless con portal cautivo.",
+"sayfa": "74 Sayfa",
+"tarih": "2014",
+"boyut": "10.14 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39425082&h=bff8c26dddad00ae5ba8aeb6ad5b488d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/9fc/9fc51b38cf777508f1b44da8adf6c20b-s.jpg",
+"ad": "Guide d'Azure pour les développeurs",
+"sayfa": "67 Sayfa",
+"tarih": "2017",
+"boyut": "1.94 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=166230569&h=fb29b517cc7a68fb4241f5c4b9c12f84"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/163/163df815ff04df4935e6d35bca42c3e1-s.jpg",
+"ad": "Vorlagen für Ergon Slides",
+"sayfa": "69 Sayfa",
+"tarih": "2015",
+"boyut": "2.34 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45182504&h=d1ec0ad2a4b0360b28d2e2df83ea714f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/9f5/9f5e48402e648fd7aa105685d428a650-s.jpg",
+"ad": "HTTT_NhuBaoVu_K21_Tom tat",
+"sayfa": "23 Sayfa",
+"tarih": "2016",
+"boyut": "754 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=164506938&h=b04f893939ab3a9670441ff2f5acff10"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e30/e309493f9a92a67700f56e30301474dd-s.jpg",
+"ad": "Making Sense of Environmental Data in Real Time to Improve the Service Delivery in Assistive ...",
+"sayfa": "71 Sayfa",
+"tarih": "2017",
+"boyut": "1.19 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58322388&h=7f7faf9104b944d8a37715eae4091bee"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/7ac/7ac86310fc901cb9d60cb05a86e34dc0-s.jpg",
+"ad": "MASTER Implementation of Low Cost Three Axis CNC Machine with Network Control",
+"sayfa": "63 Sayfa",
+"tarih": "2016",
+"boyut": "5.34 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=48394479&h=0809c52b6e589ab633b2fbbfb36ccd06"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/909/909dffbae71626b66304468a7812cc72-s.jpg",
+"ad": "janne harju plant information models for opc ua",
+"sayfa": "70 Sayfa",
+"tarih": "2014",
+"boyut": "2.82 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52924038&h=132d7e24004028af20440087c26d6647"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ca7/ca7215e2b0b65193cc48e19fd90c0afa-s.jpg",
+"ad": "QuizUp Single Player Web",
+"sayfa": "70 Sayfa",
+"tarih": "2016",
+"boyut": "1.69 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=41991780&h=879c940ec0bd1214c7bd01b5e7bf3ac0"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ffe/ffe4a53992ff66a0d1551629fedd8156-s.jpg",
+"ad": "NodeBB Documentation",
+"sayfa": "65 Sayfa",
+"tarih": "2014",
+"boyut": "222 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=22351825&h=20f30a06cffe218abfd4d3d035e68dca"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/173/17322ba66c06a4abac37861895e4dc1a-s.jpg",
+"ad": "Setting Up Your Development Environment",
+"sayfa": "23 Sayfa",
+"tarih": "2017",
+"boyut": "692 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=48633689&h=0b1241ae1993508e8b2d966780ca9285"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/561/561695413c152e0d7f6950f3372c1219-s.jpg",
+"ad": "Khoa Bui BLOGGING PLATFORM WITH JAVASCRIPT STACK",
+"sayfa": "69 Sayfa",
+"tarih": "2017",
+"boyut": "898 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=42563969&h=0460f2496bedba0ddcd9de9f86fbdcb1"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f0f/f0f86a0707bd100b974aa79b48e42b14-s.jpg",
+"ad": "Unified Communication and WebRTC",
+"sayfa": "68 Sayfa",
+"tarih": "2015",
+"boyut": "5.33 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=54379122&h=44c222338d94a87277792d68206fcb14"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/4d7/4d7800349d5fd6c92dbd4894ccf56828-s.jpg",
+"ad": "Memoria 2015",
+"sayfa": "71 Sayfa",
+"tarih": "2017",
+"boyut": "1.58 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=142700398&h=416e1911211b9cd315efba3e9e30626a"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/183/183e7b7b80aa2491a1b7d4b7199b522c-s.jpg",
+"ad": "modern it architecture",
+"sayfa": "67 Sayfa",
+"tarih": "2017",
+"boyut": "3.13 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=51376440&h=da9e2510dc70de8756fc79a66f012c55"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b44/b44313d7e4ee0b749cc69fc79d108936-s.jpg",
+"ad": "latest PDF",
+"sayfa": "67 Sayfa",
+"tarih": "2014",
+"boyut": "250 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=23035772&h=4989bde5e57d8ca9d4f2988014c33732"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/379/3791a78de7af24e697d16e2e0668d35f-s.jpg",
+"ad": "腾讯优评API 文档",
+"sayfa": "64 Sayfa",
+"tarih": "2017",
+"boyut": "1.11 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=100823829&h=174ee3db95e6f0b5cdc592c038a75763"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/cb3/cb341151c85ba7fca52e3b0dc1f22bf2-s.jpg",
+"ad": "A scalable concurrent approach, using EventMachine with - Godfat",
+"sayfa": "65 Sayfa",
+"tarih": "2010",
+"boyut": "394 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=15040731&h=526d6a89f6a31431517b88741ad4ee3f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a2d/a2dfee742aa0538d283ed2b305a3ecc8-s.jpg",
+"ad": "Understanding how to make the most of your Cisco Jabber Deployment",
+"sayfa": "71 Sayfa",
+"tarih": "2016",
+"boyut": "6.04 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=24771848&h=5d563c297927a416460cd4675ab58e54"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a82/a82680aac17015ccbe6bd26975b0ca6b-s.jpg",
+"ad": "The Analysis of Offline-capable Web Application Solution and its Implementation Based on ...",
+"sayfa": "66 Sayfa",
+"tarih": "2015",
+"boyut": "3.49 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=51198401&h=6f98d210cee8ce1dddb1f1bfe9f85bb9"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b9e/b9e77f35686dc2f0c6f03314b2442e8e-s.jpg",
+"ad": "Distributed video processing system on cloud servers",
+"sayfa": "62 Sayfa",
+"tarih": "2016",
+"boyut": "1.54 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52923805&h=66ef2f3b6dd88c57bb397388b1351379"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a61/a61a55ded7f5fc1aabb605d4ea08363b-s.jpg",
+"ad": "Building a concrete alternative to IDA - Radare2 to the rescue!",
+"sayfa": "64 Sayfa",
+"tarih": "2015",
+"boyut": "1.07 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=59843423&h=976adefd46423d6a6e14ff801ecb6b23"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/5d1/5d119918e1239f8278ae70edb4c54e93-s.jpg",
+"ad": "Testautomatisering for Android_jobe0610",
+"sayfa": "63 Sayfa",
+"tarih": "2016",
+"boyut": "1.48 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=41526620&h=bb96105c7978eb313b433485e523127c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/8c2/8c2909605ed7d8f1cdd62fe66777ef5a-s.jpg",
+"ad": "Constructing an Interactive Multimedia Enabled Virtual Lab Learning Environment On Vlab ...",
+"sayfa": "62 Sayfa",
+"tarih": "2014",
+"boyut": "1.59 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=43407499&h=9f229e13b1ab71f1fd18bce6ab4e4e05"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/681/681470b19af0d693aa17bc868acee2ec-s.jpg",
+"ad": "Design of a community sensor network",
+"sayfa": "61 Sayfa",
+"tarih": "2014",
+"boyut": "1.33 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=59374122&h=65d7ad11fd53f80b8e19f35f6dea297c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/1ea/1ea36c9863721c4823e83e28eaecbacc-s.jpg",
+"ad": "foremast Documentation",
+"sayfa": "61 Sayfa",
+"tarih": "2017",
+"boyut": "273 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=36171257&h=2fa54bf66a93a5b80e4e2386fee0f59e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/db7/db70280a6f8ef2a839762ad0ea1fb1db-s.jpg",
+"ad": "Distributed video processing system on cloud servers",
+"sayfa": "62 Sayfa",
+"tarih": "2016",
+"boyut": "1.54 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45454489&h=66ef2f3b6dd88c57bb397388b1351379"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e9f/e9f2717228a827a280987abbee80f260-s.jpg",
+"ad": "Webhooks API で広がるアプリ連携",
+"sayfa": "54 Sayfa",
+"tarih": "2017",
+"boyut": "2.98 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=85499807&h=d200c88e04016f2855c53a208bf3b620"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/0e3/0e3cd3d636a566a3771e085cd6f7a95a-s.jpg",
+"ad": "judicial reform",
+"sayfa": "62 Sayfa",
+"tarih": "2016",
+"boyut": "5.65 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=55036527&h=9e173287111dfd0fc76c7c90b131e1d7"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/3ed/3ed384d43ebd12f3c24b1e332567a338-s.jpg",
+"ad": "Ricardo Andres Diaz Suarez",
+"sayfa": "61 Sayfa",
+"tarih": "2017",
+"boyut": "1.75 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=59757806&h=a3a0df5985d008c4dff3fd618b180f9e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/451/45115847af63721df047414238464cfa-s.jpg",
+"ad": "CTO & Cofundador de worona.org",
+"sayfa": "61 Sayfa",
+"tarih": "2017",
+"boyut": "17.39 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=55217428&h=9f7958f3b771b95c3a1c2ab06bb75f07"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/893/893d5eb613558a7327ceb9b807959bed-s.jpg",
+"ad": "Exploring Characteristics of Code Churn",
+"sayfa": "60 Sayfa",
+"tarih": "2013",
+"boyut": "315 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52797274&h=e4fe9e432a9427d13c0ec1e7512df0c3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/c57/c573ec854211faa60c0bda5771657ff1-s.jpg",
+"ad": "Human resource matching through query augmentation for improving search context",
+"sayfa": "60 Sayfa",
+"tarih": "2016",
+"boyut": "2.18 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52313443&h=e7ebaccf5eea5ced44d7d7c2690ade87"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a5b/a5b7abb5400136e673f6b93b50019d24-s.jpg",
+"ad": "zadání bakalářské práce",
+"sayfa": "63 Sayfa",
+"tarih": "2016",
+"boyut": "1.41 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=43475721&h=4fd604acad05b4a228b98c3fb7d6e451"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e45/e4589dfae7126e8419293d61dd8c091a-s.jpg",
+"ad": "to view Report - Final Year Projects",
+"sayfa": "19 Sayfa",
+"tarih": "2014",
+"boyut": "785 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=16720777&h=cdb0b81ada8a4617b8f958fd53aa2a45"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d28/d2880fc32482fd0c672eeff4613a8ff1-s.jpg",
+"ad": "mobile sensor",
+"sayfa": "60 Sayfa",
+"tarih": "2017",
+"boyut": "10.71 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=50701866&h=8c1a1c357028cd5e414f49bcbf55b660"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/042/042586f2bf6b63f15e93e2eb04711cb8-s.jpg",
+"ad": "Universidad Autónoma de Madrid Escuela politécnica superior Trabajo de fin de máster Desarrollo ...",
+"sayfa": "64 Sayfa",
+"tarih": "2017",
+"boyut": "1.97 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=40172126&h=ec14763b86cfecd39492c7c6ce9b9d93"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e5c/e5c9fd6713fb333b526d646be2bf42be-s.jpg",
+"ad": "Node Without Servers",
+"sayfa": "61 Sayfa",
+"tarih": "2015",
+"boyut": "7.71 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=27538296&h=c20b219b372e27529dfab0e4329620d1"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/7c2/7c2c761d16b71ce4adb21e4070b99b1e-s.jpg",
+"ad": "T-404-LOKA, Final Project, 2016-1 Færð",
+"sayfa": "58 Sayfa",
+"tarih": "2016",
+"boyut": "4.43 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=34820649&h=8f5c3aec4f7c5eb888ec29df9f91b056"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/249/249ff56e745e89ae234bde586fbc1aab-s.jpg",
+"ad": "JavaScript von der Datenbank bis zum Browser - Sam Zurcher",
+"sayfa": "58 Sayfa",
+"tarih": "2014",
+"boyut": "4.61 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=16687906&h=03c5e820bb454a87138e8cce49aa2c9d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/8bd/8bde30f714bb565c44ff844e06f72d18-s.jpg",
+"ad": "Massive Open Online Courses",
+"sayfa": "58 Sayfa",
+"tarih": "2013",
+"boyut": "923 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52049292&h=ddb1bce09cb25c060359d733a141aa25"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/6e7/6e7542b3a2e257f4e9cffc1557580f66-s.jpg",
+"ad": "Node.js 软件开发实践分享",
+"sayfa": "58 Sayfa",
+"tarih": "2013",
+"boyut": "3.96 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45525850&h=c45938a2e072f177609eb7ad925bf0c2"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/12b/12bf6688f21a6aeac0c69b48be8eeb9f-s.jpg",
+"ad": "Massive Open Online Courses",
+"sayfa": "58 Sayfa",
+"tarih": "2013",
+"boyut": "923 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=40804170&h=ddb1bce09cb25c060359d733a141aa25"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/064/0642dd46303a61b9d1914426b7177b75-s.jpg",
+"ad": "Server-side JavaScript",
+"sayfa": "56 Sayfa",
+"tarih": "2014",
+"boyut": "3.64 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=37421622&h=4324c5ea0f3c8052ba288888ffbe0f2b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/793/7932b8b7835cb5806dbdd69ddf16b65d-s.jpg",
+"ad": "Análise de Sentimento dos Jogos Olímpicos Rio 2016 no Twitter",
+"sayfa": "58 Sayfa",
+"tarih": "2012",
+"boyut": "3.21 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=54368479&h=32fd04185a28c91648ac3597c585f6d0"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/256/256d50295ac7058b9943847a6d27e827-s.jpg",
+"ad": "Graduation Project Topcis for Fall 2015 Proposed By Faculty Department of Information Systems ...",
+"sayfa": "58 Sayfa",
+"tarih": "2015",
+"boyut": "858 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=43186474&h=caf47bce0c4e99bad33a8a48b3e1af1d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/928/928942b55988e67a4850d732811c4ac3-s.jpg",
+"ad": "assignment of bachelor's thesis",
+"sayfa": "55 Sayfa",
+"tarih": "2016",
+"boyut": "587 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=50475984&h=6c7139a3da18afe11d6f64affb1d3654"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/9f0/9f0742cf72a688a699a4051132124d2a-s.jpg",
+"ad": "Installation de Turtl",
+"sayfa": "13 Sayfa",
+"tarih": "2017",
+"boyut": "75 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38794138&h=2d07e681b716f6bd19b5a8ea0aebe952"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/657/65717a4876ddc1f79a3f332edef754f4-s.jpg",
+"ad": "Automated Analysis of Feedback in Various Formats of Data Search for methods and tools to ...",
+"sayfa": "56 Sayfa",
+"tarih": "2017",
+"boyut": "1.73 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=34669580&h=47e08ffc98260214ccc78ad6f176a1e8"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/924/9240e78add449a82e798a740f4627f17-s.jpg",
+"ad": "Node - Part 2",
+"sayfa": "58 Sayfa",
+"tarih": "2017",
+"boyut": "2.04 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=44761974&h=2785e86cba867af2883786bc871e20d6"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/844/844b788bbf7aac6fbaa3ca7f74c6937b-s.jpg",
+"ad": "the Backend of Frontend slides - Drupal Developer Days Szeged 2014",
+"sayfa": "56 Sayfa",
+"tarih": "2012",
+"boyut": "189 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=16638682&h=5e55e0161a6f1285d30c877290ea59e4"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/090/09018cbedf2dc83048feca48dc3e76ce-s.jpg",
+"ad": "Introduction to Conversational Artificial Intelligence",
+"sayfa": "52 Sayfa",
+"tarih": "2017",
+"boyut": "2.21 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=55721969&h=61c15a761d8252355c45132f391cff76"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/165/1657d588845d4af9e1abfe08ef9fdc32-s.jpg",
+"ad": "Javascript， 征服世界是可能的嗎？",
+"sayfa": "57 Sayfa",
+"tarih": "2012",
+"boyut": "7.22 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57328421&h=a325c6fac3091a88b1a0cbc5668f9669"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/3f4/3f4a0e00f8272cc0bff300388ad931d9-s.jpg",
+"ad": "разработка веб-приложения для предоставления сопроводительных докум",
+"sayfa": "59 Sayfa",
+"tarih": "2015",
+"boyut": "1.24 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39995984&h=32424c70e9d1ccfc70c13b9d6178a17c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/777/77705b407469cff6ab1d5ac22f072077-s.jpg",
+"ad": "Amazon DynamoDB",
+"sayfa": "57 Sayfa",
+"tarih": "2015",
+"boyut": "3.41 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=43202509&h=c8fd0364cbbf5e6cbe11207c881d66c0"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/293/2935498ecddc413add098733c328127d-s.jpg",
+"ad": "Le compte-rendu de ces journées",
+"sayfa": "63 Sayfa",
+"tarih": "2015",
+"boyut": "4.05 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39036942&h=b525d762b54af9c2fbe15ccffcdad230"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/777/777f1168190ae29e298a3069e238252b-s.jpg",
+"ad": "Final Report - ECE",
+"sayfa": "13 Sayfa",
+"tarih": "2012",
+"boyut": "2.74 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=14871762&h=ec58391d5c27be820c0f8bfe86703965"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/12b/12be7061d5d62c511bad12beea5d5909-s.jpg",
+"ad": "Izdelava hibridnih mobilnih aplikacij z ogrodjem Ionic",
+"sayfa": "56 Sayfa",
+"tarih": "2017",
+"boyut": "891 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=56000486&h=3083f6f5dda23224fbf7b5c87d0aa699"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/89b/89b3f7fef0ad52acefb72e6cd217786e-s.jpg",
+"ad": "JS Suicide: Using JavaScript Security Features to Kill JS Security",
+"sayfa": "57 Sayfa",
+"tarih": "2014",
+"boyut": "1.89 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=40068615&h=93812d37d8659fd4d8c19f9c897b1e87"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/485/4859d6634fb9f5e8b36bcaa2e4cb1ceb-s.jpg",
+"ad": "Sisällönhallintasovelluksen luominen moderneilla full stack",
+"sayfa": "53 Sayfa",
+"tarih": "2017",
+"boyut": "1.33 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52698092&h=0773c7fa83e68c8d74782e4e2a5cffb9"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/584/584c15a7d04c046a7bcee93bd8dede3b-s.jpg",
+"ad": "Cyber Physical System for Continuous Evaluation of Fall Risks to Enable Aging-In-Place by ...",
+"sayfa": "54 Sayfa",
+"tarih": "2015",
+"boyut": "6.33 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=23254381&h=99b5b003d50b7e3c09dd01faa83bd284"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/633/63303ac9076daf3045ba28fe5debe8b7-s.jpg",
+"ad": "Mapping Israel's Virtual Water Trade",
+"sayfa": "52 Sayfa",
+"tarih": "2016",
+"boyut": "1.59 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=19985407&h=c03c5f37cfedead705600bf36988b774"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e53/e5355afd04278231b06c58a9c75c4de8-s.jpg",
+"ad": "XSS Exploitation via CHEF",
+"sayfa": "12 Sayfa",
+"tarih": "2012",
+"boyut": "518 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=6791201&h=1dcdd7e0a783b89c7aa527a13ae0a9b3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/4ff/4ff02dfe7aadb1ba3cadb8316ad6f505-s.jpg",
+"ad": "Logging Matters",
+"sayfa": "53 Sayfa",
+"tarih": "2015",
+"boyut": "1.95 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=54650041&h=4242001089e222d7b298a08a244ff92f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/350/3503053421b635dc1f5d99212fa899eb-s.jpg",
+"ad": "Apache Solr",
+"sayfa": "53 Sayfa",
+"tarih": "2015",
+"boyut": "1.03 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=41099370&h=d4ce64c6f1ca7fc3c65e8ee6e02d5a15"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/3d1/3d1ab9be1ac94360d4ad1aa5b49675ce-s.jpg",
+"ad": "institut",
+"sayfa": "52 Sayfa",
+"tarih": "2016",
+"boyut": "6.5 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=51274399&h=6cb98f660acb98fb93c916fa893f6a6e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ddd/ddd69b7ba7f7f5fcda9f07d1fb7ceca6-s.jpg",
+"ad": "C10M: Defending the Internet at scale",
+"sayfa": "54 Sayfa",
+"tarih": "2013",
+"boyut": "8.87 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=24621150&h=2396e42d444796e6e784f315d7a836d9"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e47/e4726d20c14b6d7697b0374c17b40760-s.jpg",
+"ad": "assignment of bachelor's thesis",
+"sayfa": "55 Sayfa",
+"tarih": "2016",
+"boyut": "587 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=53116262&h=6c7139a3da18afe11d6f64affb1d3654"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e9f/e9f72b0788d73721d0c93dd7f9cd43e1-s.jpg",
+"ad": "Co-gobierna Aplicación de participación ciudadana desarrollada en AngularJS.",
+"sayfa": "54 Sayfa",
+"tarih": "2017",
+"boyut": "2.18 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=82807117&h=ac706bee8560cafea343380fc39f67d3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/533/533876357d586af4b1bbe371b89bdac0-s.jpg",
+"ad": "para! dispositivos!móviles!",
+"sayfa": "51 Sayfa",
+"tarih": "2015",
+"boyut": "2.26 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39355237&h=5a7dbe4bfceae4b4d6e9c348256bac2c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d70/d702085735effb98ef0963f3a21dc718-s.jpg",
+"ad": "institut",
+"sayfa": "52 Sayfa",
+"tarih": "2016",
+"boyut": "6.5 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38874091&h=6cb98f660acb98fb93c916fa893f6a6e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d88/d8848dbe72b298690da207d0c516cf71-s.jpg",
+"ad": "How to Handle the Complexity of Migrate to Microservices from Monolithic Ten year",
+"sayfa": "51 Sayfa",
+"tarih": "2017",
+"boyut": "4.06 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=55335350&h=4410520a5ba180bc020e7689329cce23"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/2f7/2f73ddaccf9e74c08637d918aec2be5c-s.jpg",
+"ad": "Contenedores con",
+"sayfa": "52 Sayfa",
+"tarih": "2016",
+"boyut": "2.8 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45247988&h=4de3d284f72db043b67dcf8f91ecb939"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/c6f/c6fb6cb048608c93232ef259677afee8-s.jpg",
+"ad": "Babyfoot Connecté",
+"sayfa": "51 Sayfa",
+"tarih": "2017",
+"boyut": "2.59 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=55883885&h=ed8596cfe025d21c631e80f96dd4c3cb"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/cfe/cfe8f5092cd7b7c6a5d217d85b414b69-s.jpg",
+"ad": "Imagerie médicale",
+"sayfa": "51 Sayfa",
+"tarih": "2017",
+"boyut": "2.82 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=50587901&h=96581e70b33d63e55cd1e91a2d642dc8"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/1f6/1f60c7208bf881789d02f16b12e9a2c8-s.jpg",
+"ad": "webassets Documentation Release 0.10.dev - Read the Docs",
+"sayfa": "50 Sayfa",
+"tarih": "2016",
+"boyut": "258 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=7616814&h=690e80eb524d1d799166a1819f662544"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/891/891d9098d220759886702f6d08d62347-s.jpg",
+"ad": "Выпускная квалификационная работа",
+"sayfa": "49 Sayfa",
+"tarih": "2017",
+"boyut": "1.18 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=150042985&h=f229e6a86d336baf045151db02097a13"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/295/2950cf78e297c83b2a1da51490c5b95d-s.jpg",
+"ad": "INNUENDO Platform Documentation",
+"sayfa": "51 Sayfa",
+"tarih": "2017",
+"boyut": "561 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=146811988&h=1e0c87229d3b66922f631cab6c1a6db6"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/704/704bbb57b81d6dce5a683a42cee74e46-s.jpg",
+"ad": "JBoss / Java EE",
+"sayfa": "47 Sayfa",
+"tarih": "2017",
+"boyut": "5.53 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=42157035&h=91506e7bdf8e6ce58e348f48cf69cf27"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a8e/a8eb67b195ed785eceb245b837f1b7a7-s.jpg",
+"ad": "Brochure ISART DIGITAL En savoir plus",
+"sayfa": "52 Sayfa",
+"tarih": "2015",
+"boyut": "4.74 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38751954&h=4ae010b9fe78953876ef13aaaec982d6"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/6cd/6cd88abb9246fa961b61dc020e58b761-s.jpg",
+"ad": "School report (Butterfly design)",
+"sayfa": "50 Sayfa",
+"tarih": "2014",
+"boyut": "1001 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=40480811&h=ce035b13069c53f631680bb2a78f438f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/9e6/9e65f69f79b7279da9d6113790aa9615-s.jpg",
+"ad": "Vincent Rouillé",
+"sayfa": "50 Sayfa",
+"tarih": "2014",
+"boyut": "3.52 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=43780777&h=a065703c994ef28e8379e9affca208e6"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/0c3/0c3f543206dac26a5712693c6e29b310-s.jpg",
+"ad": "multiseadme veebirakenduse disain, realiseerimine ja testimine",
+"sayfa": "49 Sayfa",
+"tarih": "2017",
+"boyut": "1.52 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=106236012&h=69d8ca6f97ab17127212c751153b4b8b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/6f5/6f5d3323b25d503bdd62b9c29495c5ad-s.jpg",
+"ad": "Selenium WebDriver Recipes in Node.js",
+"sayfa": "38 Sayfa",
+"tarih": "2016",
+"boyut": "712 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=21299170&h=cff81bf4646e07e1fc013d97b696f1b5"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/3d7/3d7da71c86801741986c44dcc29e2420-s.jpg",
+"ad": "Project Haystack Fall 2017 Connections Magazine",
+"sayfa": "50 Sayfa",
+"tarih": "2017",
+"boyut": "4.74 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58889749&h=779bed3bffcb3fe2107a864ad184a4bc"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/223/223880215bbb7a8481daa11d075d1a5b-s.jpg",
+"ad": "Radare from A to Z",
+"sayfa": "50 Sayfa",
+"tarih": "2017",
+"boyut": "634 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=63974576&h=a42fe54d37690dde72f4430e67d18da1"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/bfc/bfc2e923814a89395b40d9189f7de1b8-s.jpg",
+"ad": "Co-gobierna Aplicación de participación ciudadana desarrollada en AngularJS.",
+"sayfa": "50 Sayfa",
+"tarih": "2017",
+"boyut": "2.1 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=59776671&h=beb9f9b24a811f46638d4816b0ed7297"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/763/76375133dbac37c72c7cb0336f7ec1a8-s.jpg",
+"ad": "문서의 제목 나눔고딕B, 54pt",
+"sayfa": "51 Sayfa",
+"tarih": "2017",
+"boyut": "2.7 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=48676705&h=62a2036250d21cc4175bb892391d8417"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ba0/ba0546e2dff0c80862de740e84d8c1af-s.jpg",
+"ad": "Nouveautés PHP - Zend Server 7 & 8 - Z-RAY",
+"sayfa": "49 Sayfa",
+"tarih": "2015",
+"boyut": "2.65 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52081172&h=99d99d6081c9c2bfa306705e63610f8a"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/925/9257f4e9522aad47d17392541f629d12-s.jpg",
+"ad": "Deployment and Testing Automation in Web Applications",
+"sayfa": "47 Sayfa",
+"tarih": "2017",
+"boyut": "873 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58283980&h=e585fc63ef4ae49d6bc06d8958e8d888"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/061/061ea12790f29447b22427a3a52b6d21-s.jpg",
+"ad": "Building Mobile Applications Using BIRT APIs",
+"sayfa": "50 Sayfa",
+"tarih": "2015",
+"boyut": "734 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57482203&h=7089998d7d9c290165a3b938ef93e3fa"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/7a1/7a1317ee9f6a81e96918616cea09a8cd-s.jpg",
+"ad": "Microservices without the Servers",
+"sayfa": "48 Sayfa",
+"tarih": "2015",
+"boyut": "3.01 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=22819759&h=c0cc94459c2927e36d702e5b7bc0864c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/71a/71a8400d0b58210b4cea4cf0d48e1657-s.jpg",
+"ad": "회사소개서 다운로드 Download Company Profile",
+"sayfa": "48 Sayfa",
+"tarih": "2017",
+"boyut": "3.43 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=55562182&h=3cebebc342ef69e5bdb343f774e5d5a8"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/5a7/5a75a2c4ba3a99ccfe18ac16e80d8fad-s.jpg",
+"ad": "U-MOBILE",
+"sayfa": "46 Sayfa",
+"tarih": "2016",
+"boyut": "1.73 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=166369806&h=70414e992184f0da93a42ecb57ed50c8"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d02/d0283fcb6cdea7038984d0926b580fa9-s.jpg",
+"ad": "dj ascii-17",
+"sayfa": "48 Sayfa",
+"tarih": "2017",
+"boyut": "1.13 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45951516&h=331d69785d99d5050fad1b90a1fda4ce"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/782/78247c603ad30a570ba0aed9a3783edf-s.jpg",
+"ad": "NVMesh 1.0.4 User Manual",
+"sayfa": "47 Sayfa",
+"tarih": "2016",
+"boyut": "4.18 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=48004425&h=9d9bd7aa37a8ef25d359994919bf1dac"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/455/455e8ab895812b091ed895cf3ca5063d-s.jpg",
+"ad": "Tracking User Activity While Safeguarding Data From Attackers",
+"sayfa": "48 Sayfa",
+"tarih": "2016",
+"boyut": "1.25 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=23053667&h=193e5a0b412cebf10289da834f43337c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/69c/69c0e4703e7aa62a5559ddb99fc8e39e-s.jpg",
+"ad": "Front-End Ops - QCon SP",
+"sayfa": "46 Sayfa",
+"tarih": "2013",
+"boyut": "2.3 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=15460917&h=375e6a83e6e394955f0276adf2decf5e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/092/09207e2034a08b5e3f8300abb86e7fdd-s.jpg",
+"ad": "Biobank Standardisation and Harmonisation for Research Excellence in the European Union",
+"sayfa": "46 Sayfa",
+"tarih": "2016",
+"boyut": "1.6 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39708066&h=cc4a02212a1d9199b72d8039f739c7fe"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ad6/ad603f707e178cb3545dd7358ba86f94-s.jpg",
+"ad": "Desarrollo de herramienta colaborativa en tiempo real",
+"sayfa": "46 Sayfa",
+"tarih": "2015",
+"boyut": "397 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=115241057&h=ef37d4cb47ba2654fc3b6ce434c114e6"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/5c0/5c0e4008bea5dc0a6de215a93c94722b-s.jpg",
+"ad": "Assisting Language Learning with Appla Application",
+"sayfa": "48 Sayfa",
+"tarih": "2017",
+"boyut": "5.43 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=43883540&h=19e5e512cea21c8c1ae4481e7e5eb133"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/dcd/dcdca932b7145acf1ca2f36502e12ba2-s.jpg",
+"ad": "Shipping One of the Largest Microsoft JavaScript Applica ons",
+"sayfa": "46 Sayfa",
+"tarih": "2016",
+"boyut": "6.16 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=167336569&h=a4da88b8e1900b9d9f5f8c425bcee4ec"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/06d/06df03ef56ea095b291af289b25ea2f0-s.jpg",
+"ad": "Deployment and Testing Automation in Web Applications",
+"sayfa": "47 Sayfa",
+"tarih": "2017",
+"boyut": "873 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=51212584&h=e585fc63ef4ae49d6bc06d8958e8d888"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/34c/34c89bf074d302fa1bd032e672828b5e-s.jpg",
+"ad": "Alexander",
+"sayfa": "46 Sayfa",
+"tarih": "2013",
+"boyut": "8.68 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38597926&h=281db7b2be469aebd14df282ceb5ed0f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/bb5/bb58ceee6fbac71ca1adb639fd867589-s.jpg",
+"ad": "Introducción a Node.js - Camon",
+"sayfa": "42 Sayfa",
+"tarih": "2012",
+"boyut": "296 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=12075421&h=\" data-download-page="
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b57/b57f6bda833d316abd89809382e8aaf5-s.jpg",
+"ad": "security pitfalls",
+"sayfa": "46 Sayfa",
+"tarih": "2017",
+"boyut": "2.49 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52405473&h=5ed466f48bf20e8ed6f0482ce482d10f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/bcf/bcf6ae2e76c223ce322b32c5694d4609-s.jpg",
+"ad": "Belajar JavaScript",
+"sayfa": "42 Sayfa",
+"tarih": "2013",
+"boyut": "927 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=43158011&h=0f36c08b138e04c72b0a4cf8cdbee573"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/cd9/cd9e5bc5feb0fc8ee71ffe22f85d9772-s.jpg",
+"ad": "Diseño e implementación de una aplicación Web para la visualización de datos provenientes de ...",
+"sayfa": "46 Sayfa",
+"tarih": "2017",
+"boyut": "3.12 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=48804383&h=8f344ba5956ea2a747e23da3520c94a3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/94b/94b7e48b8c88c6dd268cacd5aca9d1ee-s.jpg",
+"ad": "Saarikko_Petteri.pdf",
+"sayfa": "44 Sayfa",
+"tarih": "2017",
+"boyut": "2.26 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=49800651&h=1738f42aeb8b4f62bc32df75305dceb5"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/bcb/bcb8e4db9940297f28486d2f546139d6-s.jpg",
+"ad": "White Paper Of Blockchain Cheque",
+"sayfa": "45 Sayfa",
+"tarih": "2017",
+"boyut": "820 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=126890548&h=239bc913999ab33fb69e171973968312"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ceb/ceb0b340012672127b937d9934959039-s.jpg",
+"ad": "Rendu 2 – Adaptation des IHM – Groupe 5",
+"sayfa": "43 Sayfa",
+"tarih": "2012",
+"boyut": "1.67 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39724863&h=f4dbb1ffa52faafd6e6d94d8967db322"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/3df/3df7f14c8945f68c87200b1516d97a9f-s.jpg",
+"ad": "Manuel Mendes 50028371.pdf",
+"sayfa": "44 Sayfa",
+"tarih": "2016",
+"boyut": "2.32 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=42209549&h=4b1db30cb72e17aa59b098565f0d4f0d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a53/a538b0c607c3c27a353e7eafadb6890f-s.jpg",
+"ad": "primjena owl ontologija u medicini",
+"sayfa": "45 Sayfa",
+"tarih": "2017",
+"boyut": "1.91 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=54936018&h=97aeda59ef79d9c45731804480d56cc1"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/72a/72a2baecfe45219490c4803ed013ca45-s.jpg",
+"ad": "Facade labelling using neural networks",
+"sayfa": "44 Sayfa",
+"tarih": "2017",
+"boyut": "9.05 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=50183423&h=f68404b7b77beb3f72ee01e3e57a1f1d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/497/497a9faa594b30de13ce294801648614-s.jpg",
+"ad": "UNIVERSITY OF HERTFORDSHIRE School of Computer Science Modular Masters Programme in ...",
+"sayfa": "45 Sayfa",
+"tarih": "2015",
+"boyut": "1.14 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39153801&h=6b537cf23f77d0827d1d37ff8a428872"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/891/891f802ee7c1aa3a8f19f95ce86e2c57-s.jpg",
+"ad": "Intro To Node.js with Microsoft Tools",
+"sayfa": "42 Sayfa",
+"tarih": "2014",
+"boyut": "46.17 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=19594467&h=a6e00f06338ca2e2fbdcd3184279ac6f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/789/7897d6c0a26d23552c852180b7dc1142-s.jpg",
+"ad": "MEAN Machine - Leanpub",
+"sayfa": "43 Sayfa",
+"tarih": "2016",
+"boyut": "1.96 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=17294376&h=0ff96e026849101a584a799a9acb9b80"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/0f3/0f327f7a4c8a6b9a1748f41a698286f2-s.jpg",
+"ad": "les apis moteur de la transformation digitale",
+"sayfa": "41 Sayfa",
+"tarih": "2016",
+"boyut": "2.59 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38876881&h=119f4139ede63fb24aed518b89b9d5f4"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/feb/febf6d691c8e18cb7343b04148a01505-s.jpg",
+"ad": "Liite 3 Mallipohja",
+"sayfa": "44 Sayfa",
+"tarih": "2017",
+"boyut": "2.26 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=48978541&h=1738f42aeb8b4f62bc32df75305dceb5"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f1d/f1da578d6d062c2f7a9e67d93d790829-s.jpg",
+"ad": "Thesis - Tam Nguyen",
+"sayfa": "42 Sayfa",
+"tarih": "2017",
+"boyut": "1.77 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=49654973&h=e4dc18f3e932f12061fdfb4fd081e71e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/410/4107e068970723137b35e877765195ec-s.jpg",
+"ad": "vysoké učení technické v brně registr iot zařízení",
+"sayfa": "43 Sayfa",
+"tarih": "2017",
+"boyut": "1.88 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=86418865&h=ed52a1e188548328cfd864eaec964d14"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/aa9/aa9fb641e358ad5a64ef07ef2449f13f-s.jpg",
+"ad": "Prezentacija-Studentska praksa",
+"sayfa": "41 Sayfa",
+"tarih": "2014",
+"boyut": "944 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=59203697&h=c4b10e2b2bc2132b47d56acb9869c801"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/00b/00b8d6cd4657217bfd74475bebc1580d-s.jpg",
+"ad": "Intro To Node.js with Microsoft Tools",
+"sayfa": "42 Sayfa",
+"tarih": "2014",
+"boyut": "46.17 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=22816793&h=a6e00f06338ca2e2fbdcd3184279ac6f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/5d7/5d7bb51d0382b929e53ff9d3ad455df9-s.jpg",
+"ad": "Diplomityön pohja",
+"sayfa": "41 Sayfa",
+"tarih": "2015",
+"boyut": "1.25 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39938635&h=3df7e465bf5e7145aba8a986019e506b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/5af/5afaa83dfdcd6a7272a150d53a8174e9-s.jpg",
+"ad": "Keep Calm and Install PostGreSQL",
+"sayfa": "40 Sayfa",
+"tarih": "2017",
+"boyut": "1.92 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=50847452&h=60f090a841fe42bbd3b7e7b832e44a8c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/102/102168ce6b80fa1bf1ea00191448abac-s.jpg",
+"ad": "Thesis - Tam Nguyen",
+"sayfa": "42 Sayfa",
+"tarih": "2017",
+"boyut": "1.77 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=49874435&h=e4dc18f3e932f12061fdfb4fd081e71e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/445/445ec905dd8acb699cec3a2155bdd8b2-s.jpg",
+"ad": "Cahier des charges",
+"sayfa": "42 Sayfa",
+"tarih": "2016",
+"boyut": "1.65 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=46004869&h=029fa157cef5c1f68cb05fb3c0c972fc"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/587/5874f1b4ee6baf390a8fbf840efe0610-s.jpg",
+"ad": "Untitled - Theseus",
+"sayfa": "41 Sayfa",
+"tarih": "2017",
+"boyut": "1.05 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=50027179&h=6f853ac4c64a64efdced8b441041a53f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/566/566ddf5b99d29d8f7232c22cd41e6a2f-s.jpg",
+"ad": "Coins. One Platform",
+"sayfa": "40 Sayfa",
+"tarih": "2017",
+"boyut": "4.57 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57752518&h=4806fbe0493bc81a423192f01158751f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/472/472098dfbf8664d8b4c0dd02cb44677a-s.jpg",
+"ad": "Untitled - Theseus",
+"sayfa": "41 Sayfa",
+"tarih": "2017",
+"boyut": "1.05 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=43079085&h=6f853ac4c64a64efdced8b441041a53f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/6b8/6b8bd6f601c1f2b5c39561a1689c9d7d-s.jpg",
+"ad": "CON1491 - JDBC Next",
+"sayfa": "41 Sayfa",
+"tarih": "2017",
+"boyut": "753 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=51868002&h=864a5b84c276dbfee19ce2ff03ac2209"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b4e/b4e7c0d9626cfd38e92d39e962301d22-s.jpg",
+"ad": "The Capstone Experience booklet",
+"sayfa": "40 Sayfa",
+"tarih": "2016",
+"boyut": "5.45 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=34769929&h=3d68eb59408e7cec83c7deea398fe6d6"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/0cb/0cb022dfd3e614fcdf1f2b09a670601c-s.jpg",
+"ad": "Whitepaper herunterladen",
+"sayfa": "40 Sayfa",
+"tarih": "2017",
+"boyut": "924 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=60583639&h=30f2482aaf06cf0d95fb9d9024282207"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/45b/45b8997f9d5cae7cf95ab892a2ee24dc-s.jpg",
+"ad": "Aplicación de administración con Angular, Node y Express para una aplicación Django",
+"sayfa": "41 Sayfa",
+"tarih": "2015",
+"boyut": "1.89 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52294173&h=44fd27c90170685eee4b20bb0af41a68"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d09/d097c77f5782beaa666c04990d84e7bd-s.jpg",
+"ad": "Node.js Microservices on Autopilot",
+"sayfa": "36 Sayfa",
+"tarih": "2017",
+"boyut": "6.62 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=46339296&h=0070786797b4f39b3f098d74053de7b2"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/023/0231786f6e0717e203fb82af457e1ac6-s.jpg",
+"ad": "IND-5974 Managing Devices with the IBM Watson IoT Platform",
+"sayfa": "39 Sayfa",
+"tarih": "2016",
+"boyut": "931 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=20880266&h=b94410cd55770d57e522af483d09de5c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d03/d03e4aa9212babcd14b530cb1d8057fc-s.jpg",
+"ad": "Java - Microsoft Visual Studio",
+"sayfa": "36 Sayfa",
+"tarih": "2016",
+"boyut": "4.31 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=17749240&h=eea5461a27f1cca053f28d9e169c205a"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/25d/25d87ba783990bcf6495834119c3c5de-s.jpg",
+"ad": "Методичні вказівки для самостійної",
+"sayfa": "40 Sayfa",
+"tarih": "2016",
+"boyut": "604 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=150042236&h=a078531f2a6fcd344d19943026e1ac78"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/972/9728cc8d8a96941bffddcc07ebd9a7cc-s.jpg",
+"ad": "Openshift",
+"sayfa": "39 Sayfa",
+"tarih": "2012",
+"boyut": "5.25 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=53684250&h=0a24d47f2e4cd9a1723070ba521082ad"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ce0/ce0913df61fb58667cc7b7d1c79c53d0-s.jpg",
+"ad": "Application Embedding: A Language Approach to Declarative Web Programming",
+"sayfa": "38 Sayfa",
+"tarih": "2016",
+"boyut": "2.8 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=32619922&h=0a0cf7103c62d8db5d397e2af9698e0e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/194/1949f8f7d8fa8480d5fed518f82aac64-s.jpg",
+"ad": "Building a Mobile Backend API with Node.js Better Than Expected My",
+"sayfa": "37 Sayfa",
+"tarih": "2013",
+"boyut": "8.56 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=4226927&h=4b7219365a6ce34d99c0c7c8dbe24973"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/6e6/6e6bf770349e174924b08d743f7264d9-s.jpg",
+"ad": "1 Efecto del entrenamiento diferencial en conducta gobernada por reglas sobre el seguimiento de",
+"sayfa": "38 Sayfa",
+"tarih": "2016",
+"boyut": "421 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=142696296&h=6a7887181561437beaeac1a61e6b2303"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/48c/48ce76f63e9b039b0f547e343ac34ee7-s.jpg",
+"ad": "Reactive Programming with Algebra.key",
+"sayfa": "37 Sayfa",
+"tarih": "2015",
+"boyut": "561 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=22840418&h=b9e633a6d07ba2336cd827c64d45dca2"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b1c/b1c04977a2b5afc8aff9fa8f8aea53a0-s.jpg",
+"ad": "Markeplace web application with Foglab",
+"sayfa": "37 Sayfa",
+"tarih": "2017",
+"boyut": "737 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57908557&h=87951cbc5719d29f33c92ffc7cb479e2"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/8ee/8eeaa3ab37aea153619593cc5c13ffe4-s.jpg",
+"ad": "Cloud Report from IT Central Station",
+"sayfa": "39 Sayfa",
+"tarih": "2012",
+"boyut": "975 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=22512936&h=f2e1366f69a58caec95097d641a15f23"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d2d/d2daf485e1ea4de55460d7069110a94c-s.jpg",
+"ad": "OWASP Application Security – Building and Breaking",
+"sayfa": "38 Sayfa",
+"tarih": "2015",
+"boyut": "3.66 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=17431969&h=f10ee3c3243dd981029b0295664b3c31"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/39e/39e6f63c12b1eb490ce653bed544d24b-s.jpg",
+"ad": "How we are developing a next generation DNS API for applications",
+"sayfa": "36 Sayfa",
+"tarih": "2016",
+"boyut": "738 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39127760&h=499e8240cf9f77c84fcad3bf45097e21"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/647/647462257c71d8d3a22e87fe39f302a6-s.jpg",
+"ad": "Server-side vs Client-side",
+"sayfa": "37 Sayfa",
+"tarih": "2017",
+"boyut": "414 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=56998558&h=c488ba078c959580e37cbcb4d9f39bda"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/92b/92bd1c42d478ad7b3597e73a7ef28159-s.jpg",
+"ad": "SmartMirror: A Glance into the Future",
+"sayfa": "37 Sayfa",
+"tarih": "2017",
+"boyut": "1.52 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=121737610&h=9636e98aecf1f1e19265a5cdb9ab2cea"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/729/7297add0dc14c8706288babd2139990a-s.jpg",
+"ad": "Front-End Tools and Workflows",
+"sayfa": "36 Sayfa",
+"tarih": "2015",
+"boyut": "3.09 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45672146&h=109dddbdd5de06fe96985bf7c3db86d0"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/75b/75b1fdc6e4dfd053d55d412417c13964-s.jpg",
+"ad": "AEK Introduction",
+"sayfa": "37 Sayfa",
+"tarih": "2017",
+"boyut": "214 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=51965280&h=4c231d7d12abd64e0ae9ed071be1ab62"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/22c/22c7760a023a4d0d7324dc3803a692f3-s.jpg",
+"ad": "Objektno orjentisani JavaScript",
+"sayfa": "37 Sayfa",
+"tarih": "2017",
+"boyut": "1.63 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=55149303&h=06fe7e3208209e03a42d3f85c282181d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/deb/deb7b73ecafe1c55f472cba964101cf2-s.jpg",
+"ad": "The Snowflake Elastic Data Warehouse",
+"sayfa": "30 Sayfa",
+"tarih": "2016",
+"boyut": "2.08 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=23863883&h=620120f3a98aad32ea2ab837f411f041"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ed1/ed1957fa1720b5d0b69376263c98f669-s.jpg",
+"ad": "Обзор Intel® IoT Developer Program",
+"sayfa": "36 Sayfa",
+"tarih": "2014",
+"boyut": "2.05 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=40225321&h=523b1a670d6bd280a53f7c5b8ea60f1f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/58a/58a210b9a998220394f48a5b72d10e0a-s.jpg",
+"ad": "Internet Of Things (IOT)",
+"sayfa": "33 Sayfa",
+"tarih": "2016",
+"boyut": "3.21 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=39591750&h=b25e1ef4e670ebc240380778c510dc9d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/c05/c05ee6fca8a3abe292ba82224e5ea7a8-s.jpg",
+"ad": "in4it's DevOps Handboek",
+"sayfa": "34 Sayfa",
+"tarih": "2017",
+"boyut": "876 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=47107977&h=03241537b0cd00e5c4784dc80c1fb3b4"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/42d/42d40fbdcf6f820a48e080ba662bf108-s.jpg",
+"ad": "Kernel Gateway Documentation",
+"sayfa": "33 Sayfa",
+"tarih": "2016",
+"boyut": "219 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=22452692&h=b0d95655d904c3a933b84604bfe3e1ab"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/5c1/5c1f6777a26af570ca838565896c797b-s.jpg",
+"ad": "Cyber-Espionage Using an Android Spyphone",
+"sayfa": "32 Sayfa",
+"tarih": "2014",
+"boyut": "2.62 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=24051824&h=e160d9fd40aa99f3225f39f3a418e781"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d57/d570b9504a962b886ae5113dae35ed3f-s.jpg",
+"ad": "EM Informatics Network meeting - The Nuffield Trust",
+"sayfa": "33 Sayfa",
+"tarih": "2012",
+"boyut": "2.95 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=7779530&h=de985628ddd62dc93a8732afd9e80792"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ca9/ca9bb25a9a7cb7c634adcf59219e0fb7-s.jpg",
+"ad": "Do 29 de outubro ao 4 de novembro de 2018",
+"sayfa": "31 Sayfa",
+"tarih": "2017",
+"boyut": "1.28 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=140911751&h=b8d7a9ba2e433180647d5579c4b8460f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/21a/21a0d73dc00950f68d369618628c2d43-s.jpg",
+"ad": "Flare-On 3: Challenge 10 Solution - FLAVA",
+"sayfa": "32 Sayfa",
+"tarih": "2016",
+"boyut": "1.08 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=28478788&h=288fa769e82454101f50f724d6435dd8"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b7d/b7d2023cbb0ddccb2a55858d8a4a0882-s.jpg",
+"ad": "Ausgabe 4/2016",
+"sayfa": "36 Sayfa",
+"tarih": "2016",
+"boyut": "8.49 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45907303&h=babedafce0615909eb594336098dc563"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ef2/ef2de77bd746100eb1405988a362e6af-s.jpg",
+"ad": "OpenShift Online 3 Getting Started",
+"sayfa": "31 Sayfa",
+"tarih": "2017",
+"boyut": "975 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=43813399&h=fe74f1407d25d40f89e4fe9ff7348372"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/38b/38b405314f19890c1fccd243f74194e0-s.jpg",
+"ad": "RESTAPI and JSON Use Case Scenarios",
+"sayfa": "28 Sayfa",
+"tarih": "2017",
+"boyut": "4.5 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=48539771&h=8ac28dad45573dfc006d7cb8241bf708"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/141/141ab1a9f54e5b475c4520ed5bdea4a0-s.jpg",
+"ad": "Jeroen Cox s129510 Project coach",
+"sayfa": "32 Sayfa",
+"tarih": "2016",
+"boyut": "4.47 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=47355746&h=10fbecf154e545ba2d898997f46104af"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d2e/d2e01a0ffae3d62d2fda7bbe4aa7b230-s.jpg",
+"ad": "(wo/ Solution) (pdf)",
+"sayfa": "31 Sayfa",
+"tarih": "2015",
+"boyut": "1.78 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38147509&h=8971e406334a1d9a5a0b9d062aa27c24"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/bd1/bd14f465f34ed88b401d49da18afb0aa-s.jpg",
+"ad": "IBM Internet of Things Workbench",
+"sayfa": "31 Sayfa",
+"tarih": "2016",
+"boyut": "604 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=32895018&h=a84c7c503ada7d8da739a0dc1f29c70d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/93b/93b193765c20b42c70e7493e5a16e9d3-s.jpg",
+"ad": "priorities for entry- level digital skills needs in",
+"sayfa": "34 Sayfa",
+"tarih": "2016",
+"boyut": "946 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=40827070&h=6ed4d47bb5cccd9aea346d5a1bc54de3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e43/e43cdc6ccaa302198e9eab7b1b58904d-s.jpg",
+"ad": "Documentation of a UI-Library used in Web Development",
+"sayfa": "31 Sayfa",
+"tarih": "2017",
+"boyut": "550 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=49143730&h=476c4a2696c563b46aace35854863f4f"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/245/2457e30b9e933722f2b53eb5cbd2ed4c-s.jpg",
+"ad": "Deposit coins. Borrow cash against your cryptocurrency. Earn interest.",
+"sayfa": "32 Sayfa",
+"tarih": "2017",
+"boyut": "2.27 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52840403&h=dc35aa2e0ab75d061004e6e81ae4b2e3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/780/7802761b61c2947c66f271221707741f-s.jpg",
+"ad": "CORS in Action",
+"sayfa": "28 Sayfa",
+"tarih": "2014",
+"boyut": "4.01 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57807987&h=7f2759855e7c5d923866ac26cc15373e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/bd9/bd94c1cb7d41bcdeab7ad456e3d28e93-s.jpg",
+"ad": "CREATE A Node.Js Express API Daniel de la Mata - Danimata",
+"sayfa": "35 Sayfa",
+"tarih": "2012",
+"boyut": "150 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=9570718&h=\" data-download-page="
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a32/a320d168eb33e1a76fc4bc090aab6cf3-s.jpg",
+"ad": "deposit coins. earn interest. borrow cash against your cryptocurrency.",
+"sayfa": "30 Sayfa",
+"tarih": "2017",
+"boyut": "2.14 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58055038&h=920bbbd763a17b30c7f89a7e0037e5f5"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b1b/b1ba57804899274c4bb37fdad6747d55-s.jpg",
+"ad": "Local Music Bot Documentation",
+"sayfa": "29 Sayfa",
+"tarih": "2016",
+"boyut": "126 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=40296239&h=48832591dfdebe541161af07e62fd334"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/487/4879d7125927c10b301a38198a9fb6cd-s.jpg",
+"ad": "Computing - Pearson Education",
+"sayfa": "28 Sayfa",
+"tarih": "2012",
+"boyut": "3.32 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=11826512&h=c2f2bedc1ab76fdabc8f28ca65dbe1f3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/905/9052730da984c3dfb1f8d5f6b34fa681-s.jpg",
+"ad": "Mobile App development",
+"sayfa": "30 Sayfa",
+"tarih": "2016",
+"boyut": "686 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57990967&h=3c670acdf4dd6a144f8c937e05abe3a2"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/9ca/9ca417577581205c93d8ed1b4ab369d2-s.jpg",
+"ad": "Mobile App development",
+"sayfa": "30 Sayfa",
+"tarih": "2016",
+"boyut": "686 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=50140188&h=3c670acdf4dd6a144f8c937e05abe3a2"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/924/9240735f9a13f15996e8645b3e7112f7-s.jpg",
+"ad": "Project-Haystack Connections",
+"sayfa": "30 Sayfa",
+"tarih": "2016",
+"boyut": "1.24 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=34609281&h=6a748991fb1444d2d8915cc94fd59ec3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/018/018050a45ec7c1c9ecf77af9031cd7f1-s.jpg",
+"ad": "Cross-Platforms Development Tools",
+"sayfa": "29 Sayfa",
+"tarih": "2012",
+"boyut": "5.12 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=46993329&h=b141f33148f40a53b2bc58dd84aa4df5"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/8a0/8a0003a9f41f290b3a53efa36a28f010-s.jpg",
+"ad": "Cloud Hybride Docker & Bluemix",
+"sayfa": "28 Sayfa",
+"tarih": "2015",
+"boyut": "4 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38814366&h=6ccd5152db68482dfa8d37155ed8b7ac"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/3a9/3a98575d78b79ce46af9d855b7cec26f-s.jpg",
+"ad": "Experience with Selenium 2 WebDriver - Northern Virginia Test",
+"sayfa": "26 Sayfa",
+"tarih": "2008",
+"boyut": "2.45 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=2103573&h=57d00ee9440e26e2971c51ffa15231ea"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/50e/50e6b1fe4afdf9b337dd490666da70cd-s.jpg",
+"ad": "laAraña",
+"sayfa": "28 Sayfa",
+"tarih": "2017",
+"boyut": "6.22 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57864845&h=aa047d1d96fb213db0deb805bfef4634"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b3f/b3fcee63423f6239bdd3d2b774300e71-s.jpg",
+"ad": "IBM Internet of Things Workbench",
+"sayfa": "29 Sayfa",
+"tarih": "2016",
+"boyut": "688 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=36175282&h=e97a08db445084589e2bb81d31dd8c6c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/980/980a13f1164c3d9b2a11ab028e3fafce-s.jpg",
+"ad": "Best Practices产品文档",
+"sayfa": "28 Sayfa",
+"tarih": "2017",
+"boyut": "550 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58874158&h=8468b94811f93a1b372b4d54e76055e3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/70d/70d1e6ce276bb9e25ea830820daa1ddd-s.jpg",
+"ad": "How to publish RDF Stream with TripleWave",
+"sayfa": "28 Sayfa",
+"tarih": "2016",
+"boyut": "769 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=58994448&h=0950bc28d16b4f21b40296ad0ebad22b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f83/f839b22e7c1dbd8464349f610ca8448e-s.jpg",
+"ad": "The Future of Distributed Applications",
+"sayfa": "28 Sayfa",
+"tarih": "2014",
+"boyut": "3.71 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=22501343&h=59713d0ca3e7e71ff6f6635efda540a4"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/1e4/1e4ec24392d752166731773c6334d235-s.jpg",
+"ad": "Lecture slides",
+"sayfa": "28 Sayfa",
+"tarih": "2015",
+"boyut": "581 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=23234997&h=cdf07865d0071a9257cf520810f8c41b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/de1/de188362338ddacf5a08f6302f874bd4-s.jpg",
+"ad": "Mobile App development",
+"sayfa": "30 Sayfa",
+"tarih": "2016",
+"boyut": "686 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=49837924&h=3c670acdf4dd6a144f8c937e05abe3a2"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d73/d73cea33fdaa0e8970a969bc2fdfc539-s.jpg",
+"ad": "Node - web.stanford.edu",
+"sayfa": "29 Sayfa",
+"tarih": "2012",
+"boyut": "145 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=19832732&h=0151a67fbfc228eb55f2d065fd425f59"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/537/53731e6968228b345222aa7f7088339d-s.jpg",
+"ad": "CSCI 401 Project Descriptions",
+"sayfa": "29 Sayfa",
+"tarih": "2016",
+"boyut": "233 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=28667053&h=37356affb3b424996dd1282c7c65f415"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/d0b/d0b99bf202464c6869d5e3e272a29e57-s.jpg",
+"ad": "trix Documentation",
+"sayfa": "29 Sayfa",
+"tarih": "2016",
+"boyut": "917 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=42625904&h=02d83dc45cb237ca11d0543786738d95"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/78d/78d38f76ce4f0284ba5f4211fe53e64d-s.jpg",
+"ad": "Increase the Value of Static Analysis by Enhancing its Rule Set",
+"sayfa": "31 Sayfa",
+"tarih": "2017",
+"boyut": "791 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=51848837&h=6576be09b1b8294bba01c6ecc1da56bb"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/00f/00ffb6fef3f742a6876ed6668a5669c5-s.jpg",
+"ad": "Serverless IoT Applications",
+"sayfa": "28 Sayfa",
+"tarih": "2017",
+"boyut": "4.2 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=48564906&h=ba77298a39d341745ed19b2654e46663"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/0b4/0b43911f429a7eb5fb93ea823fadf72b-s.jpg",
+"ad": "MP4Box.js",
+"sayfa": "26 Sayfa",
+"tarih": "2016",
+"boyut": "1.33 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=42475763&h=ea2c2c4422643729af19b4357fdb6767"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e3b/e3b98b1e33785094a8f9eb431587130f-s.jpg",
+"ad": "1. Documentation",
+"sayfa": "26 Sayfa",
+"tarih": "2014",
+"boyut": "3.31 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=20765750&h=47a17cddb298cae47ed06f733df843a3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/be7/be745b3f443cb1c2400f0259829ea6ec-s.jpg",
+"ad": "Pan-cancer immunogenomic analyses reveal genotype-immunophenotype relationships and ...",
+"sayfa": "28 Sayfa",
+"tarih": "2016",
+"boyut": "6.26 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=48810624&h=2b496d0d7cd620b9eb4eeb2f90953efe"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/3c5/3c59d8192b7516c7155fd849d2d340eb-s.jpg",
+"ad": "CouchDB - Datalab",
+"sayfa": "26 Sayfa",
+"tarih": "2012",
+"boyut": "930 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=16120872&h=b6cd8811a69c1504257347c676119bc5"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/e52/e5283486538d238059922652a1185a3d-s.jpg",
+"ad": "Serverless Apps with Node.js MEAP V06",
+"sayfa": "25 Sayfa",
+"tarih": "2017",
+"boyut": "2.62 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=105175491&h=a9b182a15487abfa0e66ff1dedacbc42"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/b53/b53c27dd70f64b61d6378b4410dd8e7b-s.jpg",
+"ad": "Unlocking Azure with Puppet Enterprise",
+"sayfa": "28 Sayfa",
+"tarih": "2016",
+"boyut": "2.86 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45554383&h=0191a8c15dedf3d2f43d64d52888a95c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/853/853deeb1e07818fdb6f6b7373308fcc1-s.jpg",
+"ad": "Stage-IT2017_Aziende-Progetti",
+"sayfa": "27 Sayfa",
+"tarih": "2017",
+"boyut": "867 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=40184105&h=5f99e6721f0bd7fd95ed8a04c41ab137"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/851/851ebcd15a29690c9b7ebb9aac55abfb-s.jpg",
+"ad": "Profile ES",
+"sayfa": "26 Sayfa",
+"tarih": "2017",
+"boyut": "16.14 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=56114057&h=64f6c2a13510efb9e90aa3d69c8ea597"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/70e/70e42b401aeb3b9421d27684e0a4b15b-s.jpg",
+"ad": "Best Practices产品文档",
+"sayfa": "28 Sayfa",
+"tarih": "2017",
+"boyut": "550 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=53724696&h=716b32a58dbfca370d66a5fbcdff4889"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/dd1/dd19e2767557d0cdc9e894cd4fab01e6-s.jpg",
+"ad": "Pan-cancer immunogenomic analyses reveal genotype-immunophenotype relationships and ...",
+"sayfa": "28 Sayfa",
+"tarih": "2016",
+"boyut": "6.26 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=57408899&h=f9ce9578f917f0f284a4fa4a68ab78d9"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/620/620b87104693d41aa57ca9b80ca4613c-s.jpg",
+"ad": "AI Network A blockchain designed to manage P2P computation cloud",
+"sayfa": "28 Sayfa",
+"tarih": "2007",
+"boyut": "599 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=128111943&h=7f33e2860830401586de822932486130"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/85c/85cd28a6675674afe200003f21ebcd3a-s.jpg",
+"ad": "Developer's Guide",
+"sayfa": "27 Sayfa",
+"tarih": "2017",
+"boyut": "172 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=44747455&h=b265f59701a63f2db1031f0821abe6db"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/1d4/1d44ece4c2d4204bb1501f3cd6b48ea2-s.jpg",
+"ad": "RabbitMQ",
+"sayfa": "25 Sayfa",
+"tarih": "2015",
+"boyut": "8.68 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=34370839&h=68b329da9893e34099c7d8ad5cb9c940"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/934/934927277a75e3d040584ebbe224b622-s.jpg",
+"ad": "Benjamin San Souci & Maude Lemaire",
+"sayfa": "24 Sayfa",
+"tarih": "2014",
+"boyut": "430 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=18114147&h=35376b020b0040c6dffb38c40b7e5670"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/232/232cd70acaef5fa554cefa5efd5f8c51-s.jpg",
+"ad": "offerte di lavoro 10 novembre 2016",
+"sayfa": "27 Sayfa",
+"tarih": "2016",
+"boyut": "382 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=44756836&h=000d06bb101ccbd0cf82f9517cdfc12e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/839/839c1fcc59f32dea805d136832e6a771-s.jpg",
+"ad": "JavaScript Testing: Leverage the power of unit testing to create bigger and better JavaScript applications",
+"sayfa": "",
+"tarih": "2016",
+"boyut": "1.17 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=196691153&h=132eaffe0e0b42cc37f2890a9a867cc3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/875/87526b08e114ab9b45c5b05c355e5b42-s.jpg",
+"ad": "Rapport de projet Le Frigo connecté",
+"sayfa": "26 Sayfa",
+"tarih": "2017",
+"boyut": "895 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=102989720&h=258eb41cce34cce589e1336187bb9d22"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/cb8/cb81540fdfde0c6d67d57d9c54e8d253-s.jpg",
+"ad": "В 2001 ГОДУ",
+"sayfa": "26 Sayfa",
+"tarih": "2017",
+"boyut": "3.11 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=180507594&h=55d754d2bbe97ab0b449bc5e4f88f591"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/408/408381880d1d78accbcc1764b23db6ee-s.jpg",
+"ad": "Your first app: node.js - Leanpub",
+"sayfa": "23 Sayfa",
+"tarih": "2014",
+"boyut": "10.31 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=11485823&h=973eeb03603e1a8ef021bb1ec971e2e4"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/9b9/9b9a81ed857de4ccae5ed4ea818fe883-s.jpg",
+"ad": "An empirical study of neural network-based audience response technology in a human anatomy ...",
+"sayfa": "25 Sayfa",
+"tarih": "2016",
+"boyut": "1.02 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=43060248&h=e4ad56008d810177005eef2c45f1f880"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/7d1/7d172864a38c765c28529fe99a292f8d-s.jpg",
+"ad": "Disposición 11454 del BOE núm. 241 de 2017",
+"sayfa": "25 Sayfa",
+"tarih": "2017",
+"boyut": "456 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=48223146&h=fd866411d5f16dbb6f050daab1493c72"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/3db/3db701305fe3259aa7df3deea040a721-s.jpg",
+"ad": "auto scaling drupal",
+"sayfa": "24 Sayfa",
+"tarih": "2012",
+"boyut": "953 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=23387616&h=7f47d91a595d6435ec6f52b1d5b79881"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/36c/36c0829a71ffc76176aa90438874959d-s.jpg",
+"ad": "Caliper - Learning Analytics",
+"sayfa": "25 Sayfa",
+"tarih": "2015",
+"boyut": "1.89 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=24528287&h=c40c178a0483cb2a121a3c1454614f88"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/8e5/8e51b802f37a0b08b7564352b7ea9d08-s.jpg",
+"ad": "yuli.unc.edu.ar",
+"sayfa": "25 Sayfa",
+"tarih": "2015",
+"boyut": "245 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=142694609&h=b315e2ae8a57e0a691974b7b18c9d4a2"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/76a/76a816fcc3106cf696a5b5914474a594-s.jpg",
+"ad": "LeanJS Documentation",
+"sayfa": "25 Sayfa",
+"tarih": "2016",
+"boyut": "145 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=27779069&h=75b0c6da4c26b3769cb2312675fec105"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/323/32329d796bbda69d7c1d46eb0047018c-s.jpg",
+"ad": "Managing REST Services as LDAP",
+"sayfa": "25 Sayfa",
+"tarih": "2015",
+"boyut": "315 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=26444904&h=eff92bed50f8cecb058494caae2a902b"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/80c/80c78a358a11ca19e2fb5136c6600aad-s.jpg",
+"ad": "Download slide (PDF Document)",
+"sayfa": "24 Sayfa",
+"tarih": "2012",
+"boyut": "424 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=34498662&h=8d8483340522776a63e9aef193c72222"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a8d/a8d3eb3a9889c09981eb7cb18005d249-s.jpg",
+"ad": "Softwaremanufaktur AW-SYSTEMS Kompetenzprofil – VBR",
+"sayfa": "24 Sayfa",
+"tarih": "2016",
+"boyut": "382 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=45369837&h=129148e2dcc014f6aaa5fa3687378f3d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/cc7/cc7b8f8e9f4befbaf42265290d8c7377-s.jpg",
+"ad": "Alexandr Dubovikov",
+"sayfa": "25 Sayfa",
+"tarih": "2015",
+"boyut": "2.63 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=93741411&h=c9c00f62f13415ed46e8311e6c2e4e73"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/365/3654f81dc4fee4d363cac6e015e0e27e-s.jpg",
+"ad": "Pan-cancer immunogenomic analyses reveals genotype-immunophenotype relationships and ...",
+"sayfa": "24 Sayfa",
+"tarih": "2016",
+"boyut": "9.18 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=26421946&h=6986d3d8d02805ca35d701a50ae95aad"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/5e5/5e510f5c5c0c3d90ed0c3668467c3d18-s.jpg",
+"ad": "Pan-cancer immunogenomic analyses reveal genotype-immunophenotype relationships and ...",
+"sayfa": "24 Sayfa",
+"tarih": "2016",
+"boyut": "9.09 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=23293104&h=f314190177e91130365a140f65ba07b9"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/af9/af938aa9fbe72fc242ba8541866af7a8-s.jpg",
+"ad": "Internationaler Bewerberanzeiger",
+"sayfa": "24 Sayfa",
+"tarih": "2016",
+"boyut": "2.98 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=163004675&h=ee88981f8fe8c702f4d42181ffaad348"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/39d/39d3404e6db09d9ca5f63a42cb53723e-s.jpg",
+"ad": "Using Node.js to Make OBIEE the Application You Always Wanted It To Be",
+"sayfa": "24 Sayfa",
+"tarih": "2017",
+"boyut": "1.4 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=198530053&h=85d1913ba5deb555e42fb749aefe7a62"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/84c/84c7df9811a3960e64ac52a3da840b6a-s.jpg",
+"ad": "Ausgabe 8-9/2018",
+"sayfa": "24 Sayfa",
+"tarih": "2017",
+"boyut": "6.12 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=95196445&h=e5ac53fc0a3be854b65e4d5e61fcb947"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a5c/a5ce9ffa025cb149562b41beb194fb38-s.jpg",
+"ad": "Big Data - State of the Art - HAL",
+"sayfa": "24 Sayfa",
+"tarih": "2016",
+"boyut": "777 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=12419847&h=e96ea0b9839e2cc1505a50cff5eec550"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/713/7138956be5f92cdf27de7d463f358ec7-s.jpg",
+"ad": "Dossier de presse SIMPLON.VE__3.pdf",
+"sayfa": "24 Sayfa",
+"tarih": "2016",
+"boyut": "9.84 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=40833342&h=af6a2bd9863744091b7d6cef16b6aacc"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f04/f042f9c52c0611c164363086f9392421-s.jpg",
+"ad": "Catalogue de formation OXiane",
+"sayfa": "24 Sayfa",
+"tarih": "2017",
+"boyut": "1.89 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=49313085&h=8574d49b1a7305414c7ab6647f52ad0c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a1f/a1f38310c3680f115dcc539c56fd79b6-s.jpg",
+"ad": "Usina Cruangi injeta R$ 100 milhões na economia da Mata Norte",
+"sayfa": "24 Sayfa",
+"tarih": "2017",
+"boyut": "1.1 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=46885204&h=949c7e228899d0c8457d1495d76365a9"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/668/6685c9ab98c63eba685c9aebb4a9b533-s.jpg",
+"ad": "How to Build the jobCent Application Using Our Developer Tools Step 1",
+"sayfa": "25 Sayfa",
+"tarih": "2015",
+"boyut": "3.3 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=137927728&h=058a84e274785af03077aef07c83b6d8"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a22/a22ceb963846623a84a243cdc999b839-s.jpg",
+"ad": "Smart Triggers/Push Data",
+"sayfa": "22 Sayfa",
+"tarih": "2017",
+"boyut": "914 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=93712403&h=6151c42a5ced87614c463277fe22308d"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/6a0/6a0aef1b814ae7c0e307b002341928ac-s.jpg",
+"ad": "Outils avancés pour le web",
+"sayfa": "22 Sayfa",
+"tarih": "2012",
+"boyut": "208 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=55073119&h=cb87fefd3f4aff43c9e70e36d7fb35db"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/303/3035489eee2e744831ee05b7d1208842-s.jpg",
+"ad": "to download a handout for this session",
+"sayfa": "21 Sayfa",
+"tarih": "2016",
+"boyut": "1.13 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=33730506&h=bee1501525f2e595971a325d434ae3a1"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/061/061be997414faa36df39a52d243dd88b-s.jpg",
+"ad": "buildout.jenkins Documentation - Read the Docs",
+"sayfa": "21 Sayfa",
+"tarih": "2016",
+"boyut": "150 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=15742251&h=f0dca4c8582974e405af00079913c072"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/5f1/5f15aa51b710d5b70d4e9b60825fa4ad-s.jpg",
+"ad": "Digital Transformation with Oracle Commerce Cloud",
+"sayfa": "22 Sayfa",
+"tarih": "2017",
+"boyut": "3.48 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=56982384&h=87ee29fc22dadc55a94f173ded6ea42e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/ba2/ba2c3337a9f4d0eee5b83dca4b81855a-s.jpg",
+"ad": "Cognicity",
+"sayfa": "21 Sayfa",
+"tarih": "2015",
+"boyut": "1.76 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=42736086&h=b20c817f0598e2d36e9ff2813d2e8cd0"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/a12/a1245fec778220c7204a8611d27e96fe-s.jpg",
+"ad": "What is Express.js?",
+"sayfa": "22 Sayfa",
+"tarih": "2015",
+"boyut": "505 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=43818537&h=35d49b05fb4f7f6421dfc842a6d9b706"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/861/861dcf5a9c70c77c763ccbb9908c0789-s.jpg",
+"ad": "From Social Media to GeoSocial Intelligence",
+"sayfa": "23 Sayfa",
+"tarih": "2016",
+"boyut": "3.62 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=24180639&h=ec283fe42d05be8bec7e6aa2f6d23cf5"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/90d/90d70d2a200e491858215b7eb6f0fa57-s.jpg",
+"ad": "Onlineformapro",
+"sayfa": "21 Sayfa",
+"tarih": "2016",
+"boyut": "4.1 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38723998&h=fa2c75ce955ec460000c6e93a3f8d1fb"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/6b9/6b9e7d9dec76be036b8496c3e6175eea-s.jpg",
+"ad": "Untitled - Clubhouse Japanese Restaurant",
+"sayfa": "20 Sayfa",
+"tarih": "2017",
+"boyut": "332 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=46727018&h=ac688494d161204068afb4dabdca4322"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/2c4/2c4d09d843a4867a45475816854c9da0-s.jpg",
+"ad": "Eloy Cas",
+"sayfa": "23 Sayfa",
+"tarih": "2017",
+"boyut": "6.17 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=46573534&h=eb21d350a32829825c767244dc96658a"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/318/318d68daa4b439a6296d5123876a7507-s.jpg",
+"ad": "Reporting mal anders, Markdown sei Dank",
+"sayfa": "22 Sayfa",
+"tarih": "2016",
+"boyut": "1.52 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=49366937&h=6e6f8f398283c07fec6bef3073bff6fd"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/9a8/9a8dfd17f0b9fc199dc4937b43e3e42f-s.jpg",
+"ad": "The Interaction Engine",
+"sayfa": "23 Sayfa",
+"tarih": "2017",
+"boyut": "450 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=52265397&h=dc95b843e5b1978a040c8e489054ad9c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/867/867b071133fdf3b7bfa062e6d1790507-s.jpg",
+"ad": "職位名稱項目助理及助理程式員Project Assistant & Assistant Programmer 空缺編號VAC0109417 ...",
+"sayfa": "20 Sayfa",
+"tarih": "2017",
+"boyut": "659 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=56656173&h=ef55de0f1c994ee338bc391e610b08ad"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/446/4460bc443e16efb5a536af6d35735373-s.jpg",
+"ad": "Learning a Static Analyzer from Data",
+"sayfa": "20 Sayfa",
+"tarih": "2017",
+"boyut": "435 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=56450634&h=8236b6b54fa27e85cb4f391f21ba40c5"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/1d1/1d1a63f4e28a57404604bab785bb7f15-s.jpg",
+"ad": "Intel Presentation Template Overview",
+"sayfa": "20 Sayfa",
+"tarih": "2016",
+"boyut": "780 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=21675782&h=4cc4fb32fad50f399514612391eaeaa3"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/f37/f37ef7ad26b9ad044013752d6d5021e1-s.jpg",
+"ad": "message to employers from NCI Career Development & Employability",
+"sayfa": "23 Sayfa",
+"tarih": "2015",
+"boyut": "8.6 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38138019&h=080fbe217434f41d4040d6acff66bbc0"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/3bb/3bbdcf8de932277c6f19cf5489270c4b-s.jpg",
+"ad": "The World of Node.js on IBM i",
+"sayfa": "21 Sayfa",
+"tarih": "2017",
+"boyut": "1.18 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=50200860&h=4ee5114f434c3e15a299343cbb4a842c"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/2dc/2dc0190f733860309b8acdedc3ce1c23-s.jpg",
+"ad": "The World of Node.js on IBM i",
+"sayfa": "21 Sayfa",
+"tarih": "2016",
+"boyut": "1.13 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=28955476&h=bee1501525f2e595971a325d434ae3a1"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/857/857188a22f7ceecbf094df6dcfdc31ff-s.jpg",
+"ad": "ESTUDO E DESENVOLVIMENTO DE CASO DE USO COM FRAMEWORK ANGULARJS Rafael de ...",
+"sayfa": "21 Sayfa",
+"tarih": "2015",
+"boyut": "549 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=40074395&h=aeb8320b58506b602b9284269d4e64da"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/7c3/7c3272e4fdaf675054465da850ee068c-s.jpg",
+"ad": "Intro to Node.js - EDUniverse",
+"sayfa": "19 Sayfa",
+"tarih": "2013",
+"boyut": "151 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=10139132&h=\" data-download-page="
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/80b/80b968900dc7165399541aa46b24e0c3-s.jpg",
+"ad": "Node.js for IoT and REST API",
+"sayfa": "17 Sayfa",
+"tarih": "2016",
+"boyut": "3.05 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=47954175&h=3e93fec06c5729c886c123da5ac66a85"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/052/052e6fb0449a33055259be21ca2ca08d-s.jpg",
+"ad": "UAE Armed Forces Key Account Plan 2017",
+"sayfa": "20 Sayfa",
+"tarih": "2017",
+"boyut": "1.7 MB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=44394553&h=563aafba595f553596ed218ca03b6d8e"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/dbc/dbcbd69fc020c494173b05ee6241f578-s.jpg",
+"ad": "Cahier des charges fonctionnel",
+"sayfa": "18 Sayfa",
+"tarih": "2017",
+"boyut": "749 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=55808314&h=320f84dac32973d1fde1a7711ab743da"
+},
+{
+"resim": "https://cdn.pdfdrive.com/assets/thumbs/1bb/1bb10febe340f18e6ccf4ae55a1e8812-s.jpg",
+"ad": "OpenShift Online All Versions Release Notes",
+"sayfa": "19 Sayfa",
+"tarih": "2014",
+"boyut": "180 KB",
+"link": "https://tr.pdfdrive.com/download.pdf?id=38080487&h=ae40d4b048f0e65101b77395397ab0d4"
+}
+]
 }
